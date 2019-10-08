@@ -1,0 +1,3439 @@
+C:\Users\user>vol
+ Volume in drive C has no label.
+ Volume Serial Number is BEDE-AFB3
+
+C:\Users\user>ver
+
+Microsoft Windows [Version 10.0.18362.388]
+
+C:\Users\user>tree
+Folder PATH listing
+Volume serial number is BEDE-AFB3
+C:.
+├───.android
+├───.BigNox
+├───.thumbnails
+│   ├───fail
+│   │   └───blender
+│   └───large
+├───.vscode
+│   └───extensions
+│       ├───abusaidm.html-snippets-0.2.1
+│       │   ├───.vscode
+│       │   ├───images
+│       │   └───snippets
+│       ├───akamud.vscode-theme-onelight-2.1.0
+│       │   └───themes
+│       ├───azemoh.one-monokai-0.4.1
+│       │   ├───.vscode
+│       │   ├───demo
+│       │   └───themes
+│       ├───christian-kohler.path-intellisense-1.4.2
+│       │   ├───icon
+│       │   ├───node_modules
+│       │   │   ├───balanced-match
+│       │   │   ├───concat-map
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   └───minimatch
+│       │   │       └───node_modules
+│       │   │           └───brace-expansion
+│       │   └───out
+│       │       └───src
+│       │           ├───completionItems
+│       │           └───utils
+│       ├───coenraads.bracket-pair-colorizer-2-0.0.28
+│       │   ├───images
+│       │   ├───node_modules
+│       │   │   ├───escape-html
+│       │   │   ├───json5
+│       │   │   │   ├───dist
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       └───minimist
+│       │   │   │           ├───example
+│       │   │   │           └───test
+│       │   │   └───vscode-uri
+│       │   │       ├───.vscode
+│       │   │       └───lib
+│       │   │           ├───esm
+│       │   │           └───umd
+│       │   └───out
+│       │       ├───BracketPair
+│       │       │   └───src
+│       │       └───src
+│       ├───ecmel.vscode-html-css-0.2.3
+│       │   └───dist
+│       ├───equinusocio.vsc-material-theme-30.0.0
+│       │   └───out
+│       │       ├───.gulp
+│       │       │   ├───consts
+│       │       │   ├───interfaces
+│       │       │   └───tasks
+│       │       ├───src
+│       │       │   ├───commands
+│       │       │   │   └───accents-setter
+│       │       │   ├───consts
+│       │       │   ├───helpers
+│       │       │   ├───interfaces
+│       │       │   └───webviews
+│       │       │       └───ui
+│       │       │           ├───release-notes
+│       │       │           └───settings
+│       │       │               └───lib
+│       │       ├───themes
+│       │       └───ui
+│       ├───fisheva.eva-theme-0.7.8
+│       │   ├───.vscode
+│       │   │   └───ipch
+│       │   │       └───684212277e2d80c2
+│       │   └───themes
+│       ├───formulahendry.auto-close-tag-0.5.6
+│       │   ├───images
+│       │   └───out
+│       │       └───src
+│       ├───formulahendry.auto-rename-tag-0.1.0
+│       │   ├───images
+│       │   └───out
+│       │       └───src
+│       ├───johnpapa.winteriscoming-1.3.0
+│       │   ├───code_of_conduct
+│       │   ├───images
+│       │   └───themes
+│       ├───lihui.vs-color-picker-1.0.0
+│       │   └───out
+│       │       └───src
+│       ├───oderwat.indent-rainbow-7.4.0
+│       │   ├───assets
+│       │   ├───node_modules
+│       │   │   ├───@types
+│       │   │   │   └───node
+│       │   │   ├───ansi-styles
+│       │   │   ├───argparse
+│       │   │   │   └───lib
+│       │   │   │       ├───action
+│       │   │   │       │   ├───append
+│       │   │   │       │   └───store
+│       │   │   │       ├───argument
+│       │   │   │       └───help
+│       │   │   ├───balanced-match
+│       │   │   ├───boolbase
+│       │   │   ├───brace-expansion
+│       │   │   ├───buffer-crc32
+│       │   │   ├───chalk
+│       │   │   ├───cheerio
+│       │   │   │   └───lib
+│       │   │   │       └───api
+│       │   │   ├───color-convert
+│       │   │   ├───color-name
+│       │   │   ├───commander
+│       │   │   ├───concat-map
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   ├───css-select
+│       │   │   │   └───lib
+│       │   │   ├───css-what
+│       │   │   ├───denodeify
+│       │   │   │   └───test
+│       │   │   ├───dom-serializer
+│       │   │   ├───domelementtype
+│       │   │   ├───domhandler
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   │       └───cases
+│       │   │   ├───domutils
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   │       └───tests
+│       │   │   ├───entities
+│       │   │   │   ├───lib
+│       │   │   │   ├───maps
+│       │   │   │   └───test
+│       │   │   ├───escape-string-regexp
+│       │   │   ├───fd-slicer
+│       │   │   │   └───test
+│       │   │   ├───fs.realpath
+│       │   │   ├───glob
+│       │   │   ├───has-flag
+│       │   │   ├───htmlparser2
+│       │   │   │   └───lib
+│       │   │   ├───inflight
+│       │   │   ├───inherits
+│       │   │   ├───linkify-it
+│       │   │   │   └───lib
+│       │   │   ├───lodash
+│       │   │   │   └───fp
+│       │   │   ├───markdown-it
+│       │   │   │   ├───bin
+│       │   │   │   ├───dist
+│       │   │   │   └───lib
+│       │   │   │       ├───common
+│       │   │   │       ├───helpers
+│       │   │   │       ├───presets
+│       │   │   │       ├───rules_block
+│       │   │   │       ├───rules_core
+│       │   │   │       └───rules_inline
+│       │   │   ├───mdurl
+│       │   │   ├───mime
+│       │   │   │   └───src
+│       │   │   ├───minimatch
+│       │   │   ├───mute-stream
+│       │   │   ├───nth-check
+│       │   │   ├───once
+│       │   │   ├───os-homedir
+│       │   │   ├───os-tmpdir
+│       │   │   ├───osenv
+│       │   │   ├───parse-semver
+│       │   │   ├───parse5
+│       │   │   │   └───lib
+│       │   │   │       ├───common
+│       │   │   │       ├───extensions
+│       │   │   │       │   ├───location_info
+│       │   │   │       │   └───position_tracking
+│       │   │   │       ├───parser
+│       │   │   │       ├───sax
+│       │   │   │       ├───serializer
+│       │   │   │       ├───tokenizer
+│       │   │   │       ├───tree_adapters
+│       │   │   │       └───utils
+│       │   │   ├───path-is-absolute
+│       │   │   ├───pend
+│       │   │   ├───q
+│       │   │   ├───read
+│       │   │   │   └───lib
+│       │   │   ├───readable-stream
+│       │   │   │   └───lib
+│       │   │   │       └───internal
+│       │   │   │           └───streams
+│       │   │   ├───safe-buffer
+│       │   │   ├───semver
+│       │   │   │   └───bin
+│       │   │   ├───sprintf-js
+│       │   │   │   ├───demo
+│       │   │   │   ├───dist
+│       │   │   │   ├───src
+│       │   │   │   └───test
+│       │   │   ├───string_decoder
+│       │   │   │   └───lib
+│       │   │   ├───supports-color
+│       │   │   ├───tmp
+│       │   │   │   ├───lib
+│       │   │   │   ├───test
+│       │   │   │   │   └───symlinkme
+│       │   │   │   └───x
+│       │   │   ├───tunnel
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   │       └───keys
+│       │   │   ├───typed-rest-client
+│       │   │   │   ├───node_modules
+│       │   │   │   │   └───underscore
+│       │   │   │   └───opensource
+│       │   │   │       └───node-http-ntlm
+│       │   │   ├───uc.micro
+│       │   │   │   ├───categories
+│       │   │   │   │   ├───Cc
+│       │   │   │   │   ├───Cf
+│       │   │   │   │   ├───P
+│       │   │   │   │   └───Z
+│       │   │   │   └───properties
+│       │   │   │       └───Any
+│       │   │   ├───underscore
+│       │   │   ├───url-join
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───util-deprecate
+│       │   │   ├───vsce
+│       │   │   │   ├───out
+│       │   │   │   └───resources
+│       │   │   ├───vso-node-api
+│       │   │   │   ├───handlers
+│       │   │   │   ├───interfaces
+│       │   │   │   │   └───common
+│       │   │   │   └───opensource
+│       │   │   │       └───node-http-ntlm
+│       │   │   ├───wrappy
+│       │   │   ├───yauzl
+│       │   │   └───yazl
+│       │   └───out
+│       │       └───test
+│       │           └───inden-rainbow
+│       │               ├───src
+│       │               └───test
+│       ├───pkief.material-icon-theme-3.9.0
+│       │   ├───dist
+│       │   └───icons
+│       ├───pranaygp.vscode-css-peek-3.0.2
+│       │   ├───node_modules
+│       │   │   ├───ajv
+│       │   │   │   ├───dist
+│       │   │   │   ├───lib
+│       │   │   │   │   ├───compile
+│       │   │   │   │   ├───dot
+│       │   │   │   │   ├───dotjs
+│       │   │   │   │   └───refs
+│       │   │   │   └───scripts
+│       │   │   ├───ansi-regex
+│       │   │   ├───ansi-styles
+│       │   │   ├───arr-diff
+│       │   │   ├───arr-flatten
+│       │   │   ├───array-differ
+│       │   │   ├───array-union
+│       │   │   ├───array-uniq
+│       │   │   ├───array-unique
+│       │   │   ├───arrify
+│       │   │   ├───asn1
+│       │   │   │   ├───lib
+│       │   │   │   │   └───ber
+│       │   │   │   └───tst
+│       │   │   │       └───ber
+│       │   │   ├───assert-plus
+│       │   │   ├───asynckit
+│       │   │   │   └───lib
+│       │   │   ├───aws-sign2
+│       │   │   ├───aws4
+│       │   │   ├───balanced-match
+│       │   │   ├───bcrypt-pbkdf
+│       │   │   ├───beeper
+│       │   │   ├───block-stream
+│       │   │   ├───boom
+│       │   │   │   ├───images
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───brace-expansion
+│       │   │   ├───braces
+│       │   │   ├───browser-stdout
+│       │   │   ├───buffer-crc32
+│       │   │   ├───caseless
+│       │   │   ├───chalk
+│       │   │   ├───clone
+│       │   │   ├───clone-buffer
+│       │   │   ├───clone-stats
+│       │   │   ├───cloneable-readable
+│       │   │   ├───co
+│       │   │   ├───combined-stream
+│       │   │   │   └───lib
+│       │   │   ├───commander
+│       │   │   ├───concat-map
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   ├───convert-source-map
+│       │   │   ├───core-util-is
+│       │   │   │   └───lib
+│       │   │   ├───cryptiles
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───dashdash
+│       │   │   │   ├───etc
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       └───assert-plus
+│       │   │   ├───dateformat
+│       │   │   │   ├───.vs
+│       │   │   │   │   ├───config
+│       │   │   │   │   └───node-dateformat
+│       │   │   │   │       └───v15
+│       │   │   │   └───lib
+│       │   │   ├───debug
+│       │   │   │   └───src
+│       │   │   ├───deep-assign
+│       │   │   ├───delayed-stream
+│       │   │   │   └───lib
+│       │   │   ├───diff
+│       │   │   │   ├───dist
+│       │   │   │   └───lib
+│       │   │   │       ├───convert
+│       │   │   │       ├───diff
+│       │   │   │       ├───patch
+│       │   │   │       └───util
+│       │   │   ├───duplexer
+│       │   │   │   └───test
+│       │   │   ├───duplexer2
+│       │   │   │   ├───node_modules
+│       │   │   │   │   ├───isarray
+│       │   │   │   │   │   └───build
+│       │   │   │   │   ├───readable-stream
+│       │   │   │   │   │   └───lib
+│       │   │   │   │   └───string_decoder
+│       │   │   │   └───test
+│       │   │   ├───duplexify
+│       │   │   ├───ecc-jsbn
+│       │   │   │   └───lib
+│       │   │   ├───end-of-stream
+│       │   │   ├───escape-string-regexp
+│       │   │   ├───event-stream
+│       │   │   │   ├───examples
+│       │   │   │   └───test
+│       │   │   │       └───helper
+│       │   │   ├───expand-brackets
+│       │   │   ├───expand-range
+│       │   │   ├───extend
+│       │   │   ├───extend-shallow
+│       │   │   ├───extglob
+│       │   │   │   └───node_modules
+│       │   │   │       └───is-extglob
+│       │   │   ├───extsprintf
+│       │   │   │   └───lib
+│       │   │   ├───fancy-log
+│       │   │   ├───fast-deep-equal
+│       │   │   │   ├───benchmark
+│       │   │   │   └───spec
+│       │   │   ├───fast-json-stable-stringify
+│       │   │   │   ├───benchmark
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   ├───fd-slicer
+│       │   │   │   └───test
+│       │   │   ├───filename-regex
+│       │   │   ├───fill-range
+│       │   │   ├───first-chunk-stream
+│       │   │   ├───for-in
+│       │   │   ├───for-own
+│       │   │   ├───forever-agent
+│       │   │   ├───form-data
+│       │   │   │   └───lib
+│       │   │   ├───from
+│       │   │   │   └───test
+│       │   │   ├───fs.realpath
+│       │   │   ├───fstream
+│       │   │   │   ├───examples
+│       │   │   │   └───lib
+│       │   │   ├───generate-function
+│       │   │   ├───generate-object-property
+│       │   │   ├───getpass
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       └───assert-plus
+│       │   │   ├───glob
+│       │   │   ├───glob-base
+│       │   │   │   └───node_modules
+│       │   │   │       ├───glob-parent
+│       │   │   │       ├───is-extglob
+│       │   │   │       └───is-glob
+│       │   │   ├───glob-parent
+│       │   │   ├───glob-stream
+│       │   │   │   └───node_modules
+│       │   │   │       ├───glob
+│       │   │   │       ├───isarray
+│       │   │   │       │   └───build
+│       │   │   │       ├───readable-stream
+│       │   │   │       │   └───lib
+│       │   │   │       ├───string_decoder
+│       │   │   │       └───through2
+│       │   │   ├───glogg
+│       │   │   ├───graceful-fs
+│       │   │   ├───growl
+│       │   │   │   └───lib
+│       │   │   ├───gulp-chmod
+│       │   │   ├───gulp-filter
+│       │   │   ├───gulp-gunzip
+│       │   │   │   └───node_modules
+│       │   │   │       ├───clone
+│       │   │   │       ├───isarray
+│       │   │   │       │   └───build
+│       │   │   │       ├───readable-stream
+│       │   │   │       │   └───lib
+│       │   │   │       ├───string_decoder
+│       │   │   │       ├───through2
+│       │   │   │       └───vinyl
+│       │   │   │           └───lib
+│       │   │   ├───gulp-remote-src
+│       │   │   │   └───node_modules
+│       │   │   │       ├───clone-stats
+│       │   │   │       ├───replace-ext
+│       │   │   │       ├───request
+│       │   │   │       │   └───lib
+│       │   │   │       └───vinyl
+│       │   │   │           └───lib
+│       │   │   ├───gulp-sourcemaps
+│       │   │   │   └───node_modules
+│       │   │   │       └───vinyl
+│       │   │   │           └───lib
+│       │   │   ├───gulp-symdest
+│       │   │   │   └───test
+│       │   │   ├───gulp-untar
+│       │   │   ├───gulp-util
+│       │   │   │   └───lib
+│       │   │   ├───gulp-vinyl-zip
+│       │   │   │   ├───lib
+│       │   │   │   │   ├───dest
+│       │   │   │   │   ├───src
+│       │   │   │   │   └───zip
+│       │   │   │   ├───node_modules
+│       │   │   │   │   ├───clone
+│       │   │   │   │   ├───clone-stats
+│       │   │   │   │   ├───queue
+│       │   │   │   │   ├───replace-ext
+│       │   │   │   │   └───vinyl
+│       │   │   │   │       └───lib
+│       │   │   │   └───test
+│       │   │   │       └───assets
+│       │   │   ├───gulplog
+│       │   │   ├───har-schema
+│       │   │   │   └───lib
+│       │   │   ├───har-validator
+│       │   │   │   ├───bin
+│       │   │   │   └───lib
+│       │   │   │       └───schemas
+│       │   │   ├───has-ansi
+│       │   │   ├───has-flag
+│       │   │   ├───has-gulplog
+│       │   │   ├───hawk
+│       │   │   │   ├───dist
+│       │   │   │   ├───example
+│       │   │   │   ├───images
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───he
+│       │   │   │   ├───bin
+│       │   │   │   └───man
+│       │   │   ├───hoek
+│       │   │   │   ├───images
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   │       └───modules
+│       │   │   ├───http-signature
+│       │   │   │   └───lib
+│       │   │   ├───inflight
+│       │   │   ├───inherits
+│       │   │   ├───is
+│       │   │   │   └───test
+│       │   │   ├───is-buffer
+│       │   │   │   └───test
+│       │   │   ├───is-dotfile
+│       │   │   ├───is-equal-shallow
+│       │   │   ├───is-extendable
+│       │   │   ├───is-extglob
+│       │   │   ├───is-glob
+│       │   │   ├───is-my-json-valid
+│       │   │   │   └───test
+│       │   │   │       ├───fixtures
+│       │   │   │       └───json-schema-draft4
+│       │   │   ├───is-number
+│       │   │   ├───is-obj
+│       │   │   ├───is-posix-bracket
+│       │   │   ├───is-primitive
+│       │   │   ├───is-property
+│       │   │   ├───is-stream
+│       │   │   ├───is-typedarray
+│       │   │   ├───is-utf8
+│       │   │   ├───is-valid-glob
+│       │   │   ├───isarray
+│       │   │   ├───isobject
+│       │   │   ├───isstream
+│       │   │   ├───jsbn
+│       │   │   ├───json-schema
+│       │   │   │   ├───draft-00
+│       │   │   │   ├───draft-01
+│       │   │   │   ├───draft-02
+│       │   │   │   ├───draft-03
+│       │   │   │   │   └───examples
+│       │   │   │   ├───draft-04
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───json-schema-traverse
+│       │   │   │   └───spec
+│       │   │   │       └───fixtures
+│       │   │   ├───json-stable-stringify
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   ├───json-stringify-safe
+│       │   │   │   └───test
+│       │   │   ├───jsonify
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───jsonpointer
+│       │   │   ├───jsprim
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       └───assert-plus
+│       │   │   ├───kind-of
+│       │   │   ├───lazystream
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───lodash.escape
+│       │   │   ├───lodash.isarguments
+│       │   │   ├───lodash.isarray
+│       │   │   ├───lodash.isequal
+│       │   │   ├───lodash.keys
+│       │   │   ├───lodash.restparam
+│       │   │   ├───lodash.template
+│       │   │   ├───lodash.templatesettings
+│       │   │   ├───lodash._basecopy
+│       │   │   ├───lodash._basetostring
+│       │   │   ├───lodash._basevalues
+│       │   │   ├───lodash._getnative
+│       │   │   ├───lodash._isiterateecall
+│       │   │   ├───lodash._reescape
+│       │   │   ├───lodash._reevaluate
+│       │   │   ├───lodash._reinterpolate
+│       │   │   ├───lodash._root
+│       │   │   ├───map-stream
+│       │   │   │   ├───examples
+│       │   │   │   └───test
+│       │   │   ├───merge-stream
+│       │   │   ├───micromatch
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       ├───is-extglob
+│       │   │   │       └───is-glob
+│       │   │   ├───mime-db
+│       │   │   ├───mime-types
+│       │   │   ├───minimatch
+│       │   │   ├───minimist
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   ├───mkdirp
+│       │   │   │   ├───bin
+│       │   │   │   ├───examples
+│       │   │   │   ├───node_modules
+│       │   │   │   │   └───minimist
+│       │   │   │   │       ├───example
+│       │   │   │   │       └───test
+│       │   │   │   └───test
+│       │   │   ├───mocha
+│       │   │   │   ├───bin
+│       │   │   │   ├───images
+│       │   │   │   ├───lib
+│       │   │   │   │   ├───browser
+│       │   │   │   │   ├───interfaces
+│       │   │   │   │   └───reporters
+│       │   │   │   └───node_modules
+│       │   │   │       ├───commander
+│       │   │   │       └───supports-color
+│       │   │   ├───ms
+│       │   │   ├───multimatch
+│       │   │   ├───multipipe
+│       │   │   │   └───test
+│       │   │   ├───node.extend
+│       │   │   │   └───lib
+│       │   │   ├───normalize-path
+│       │   │   ├───oauth-sign
+│       │   │   ├───object-assign
+│       │   │   ├───object.omit
+│       │   │   ├───once
+│       │   │   ├───ordered-read-streams
+│       │   │   ├───parse-glob
+│       │   │   │   └───node_modules
+│       │   │   │       ├───is-extglob
+│       │   │   │       └───is-glob
+│       │   │   ├───path-dirname
+│       │   │   ├───path-is-absolute
+│       │   │   ├───pause-stream
+│       │   │   │   └───test
+│       │   │   ├───pend
+│       │   │   ├───performance-now
+│       │   │   │   ├───lib
+│       │   │   │   ├───src
+│       │   │   │   └───test
+│       │   │   │       └───scripts
+│       │   │   ├───pinkie
+│       │   │   ├───pinkie-promise
+│       │   │   ├───preserve
+│       │   │   ├───process-nextick-args
+│       │   │   ├───punycode
+│       │   │   ├───qs
+│       │   │   │   ├───dist
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───querystringify
+│       │   │   ├───queue
+│       │   │   │   └───coverage
+│       │   │   │       └───lcov-report
+│       │   │   │           └───queue
+│       │   │   ├───randomatic
+│       │   │   │   └───node_modules
+│       │   │   │       ├───is-number
+│       │   │   │       │   └───node_modules
+│       │   │   │       │       └───kind-of
+│       │   │   │       └───kind-of
+│       │   │   ├───readable-stream
+│       │   │   │   ├───doc
+│       │   │   │   │   └───wg-meetings
+│       │   │   │   └───lib
+│       │   │   │       └───internal
+│       │   │   │           └───streams
+│       │   │   ├───regex-cache
+│       │   │   ├───remove-trailing-separator
+│       │   │   ├───repeat-element
+│       │   │   ├───repeat-string
+│       │   │   ├───replace-ext
+│       │   │   │   └───test
+│       │   │   ├───request
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       ├───assert-plus
+│       │   │   │       ├───aws-sign2
+│       │   │   │       ├───boom
+│       │   │   │       │   └───lib
+│       │   │   │       ├───caseless
+│       │   │   │       ├───cryptiles
+│       │   │   │       │   ├───lib
+│       │   │   │       │   └───node_modules
+│       │   │   │       │       └───boom
+│       │   │   │       │           └───lib
+│       │   │   │       ├───form-data
+│       │   │   │       │   └───lib
+│       │   │   │       ├───har-validator
+│       │   │   │       │   └───lib
+│       │   │   │       ├───hawk
+│       │   │   │       │   ├───dist
+│       │   │   │       │   └───lib
+│       │   │   │       ├───hoek
+│       │   │   │       │   └───lib
+│       │   │   │       ├───http-signature
+│       │   │   │       │   └───lib
+│       │   │   │       ├───qs
+│       │   │   │       │   ├───dist
+│       │   │   │       │   ├───lib
+│       │   │   │       │   └───test
+│       │   │   │       ├───sntp
+│       │   │   │       │   └───lib
+│       │   │   │       └───tunnel-agent
+│       │   │   ├───requires-port
+│       │   │   ├───rimraf
+│       │   │   ├───safe-buffer
+│       │   │   ├───semver
+│       │   │   │   └───bin
+│       │   │   ├───sntp
+│       │   │   │   ├───examples
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───source-map
+│       │   │   │   ├───dist
+│       │   │   │   └───lib
+│       │   │   ├───source-map-support
+│       │   │   ├───sparkles
+│       │   │   ├───split
+│       │   │   │   ├───examples
+│       │   │   │   └───test
+│       │   │   ├───sshpk
+│       │   │   │   ├───bin
+│       │   │   │   ├───lib
+│       │   │   │   │   └───formats
+│       │   │   │   ├───man
+│       │   │   │   │   └───man1
+│       │   │   │   └───node_modules
+│       │   │   │       └───assert-plus
+│       │   │   ├───stat-mode
+│       │   │   │   └───test
+│       │   │   ├───stream-combiner
+│       │   │   │   └───test
+│       │   │   ├───stream-shift
+│       │   │   ├───streamfilter
+│       │   │   │   ├───src
+│       │   │   │   └───tests
+│       │   │   ├───streamifier
+│       │   │   │   └───lib
+│       │   │   ├───stringstream
+│       │   │   ├───string_decoder
+│       │   │   │   └───lib
+│       │   │   ├───strip-ansi
+│       │   │   ├───strip-bom
+│       │   │   ├───strip-bom-stream
+│       │   │   ├───supports-color
+│       │   │   ├───tar
+│       │   │   │   ├───examples
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───through
+│       │   │   │   └───test
+│       │   │   ├───through2
+│       │   │   ├───through2-filter
+│       │   │   ├───time-stamp
+│       │   │   ├───to-absolute-glob
+│       │   │   ├───tough-cookie
+│       │   │   │   └───lib
+│       │   │   ├───tunnel-agent
+│       │   │   ├───tweetnacl
+│       │   │   ├───unique-stream
+│       │   │   ├───url-parse
+│       │   │   │   └───dist
+│       │   │   ├───util-deprecate
+│       │   │   ├───uuid
+│       │   │   │   ├───bin
+│       │   │   │   └───lib
+│       │   │   ├───vali-date
+│       │   │   ├───verror
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       └───assert-plus
+│       │   │   ├───vinyl
+│       │   │   │   └───lib
+│       │   │   ├───vinyl-fs
+│       │   │   │   ├───lib
+│       │   │   │   │   ├───dest
+│       │   │   │   │   │   └───writeContents
+│       │   │   │   │   ├───src
+│       │   │   │   │   │   └───getContents
+│       │   │   │   │   └───symlink
+│       │   │   │   └───node_modules
+│       │   │   │       ├───object-assign
+│       │   │   │       └───vinyl
+│       │   │   │           └───lib
+│       │   │   ├───vinyl-source-stream
+│       │   │   │   └───node_modules
+│       │   │   │       ├───clone
+│       │   │   │       ├───isarray
+│       │   │   │       │   └───build
+│       │   │   │       ├───readable-stream
+│       │   │   │       │   └───lib
+│       │   │   │       ├───string_decoder
+│       │   │   │       ├───through2
+│       │   │   │       └───vinyl
+│       │   │   │           └───lib
+│       │   │   ├───vscode
+│       │   │   │   ├───bin
+│       │   │   │   └───lib
+│       │   │   ├───vscode-jsonrpc
+│       │   │   │   └───lib
+│       │   │   ├───vscode-languageclient
+│       │   │   │   └───lib
+│       │   │   │       └───utils
+│       │   │   ├───vscode-languageserver-protocol
+│       │   │   │   └───lib
+│       │   │   │       └───utils
+│       │   │   ├───vscode-languageserver-types
+│       │   │   │   └───lib
+│       │   │   ├───wrappy
+│       │   │   ├───xtend
+│       │   │   ├───yauzl
+│       │   │   └───yazl
+│       │   ├───out
+│       │   │   ├───client
+│       │   │   │   ├───src
+│       │   │   │   └───test
+│       │   │   └───server
+│       │   │       └───src
+│       │   │           ├───core
+│       │   │           └───logger
+│       │   ├───server
+│       │   │   ├───core
+│       │   │   ├───logger
+│       │   │   ├───node_modules
+│       │   │   │   ├───.bin
+│       │   │   │   ├───agent-base
+│       │   │   │   │   └───test
+│       │   │   │   ├───ajv
+│       │   │   │   │   ├───dist
+│       │   │   │   │   ├───lib
+│       │   │   │   │   │   ├───compile
+│       │   │   │   │   │   ├───dot
+│       │   │   │   │   │   ├───dotjs
+│       │   │   │   │   │   └───refs
+│       │   │   │   │   └───scripts
+│       │   │   │   ├───asn1
+│       │   │   │   │   └───lib
+│       │   │   │   │       └───ber
+│       │   │   │   ├───assert-plus
+│       │   │   │   ├───asynckit
+│       │   │   │   │   └───lib
+│       │   │   │   ├───aws-sign2
+│       │   │   │   ├───aws4
+│       │   │   │   ├───balanced-match
+│       │   │   │   ├───bcrypt-pbkdf
+│       │   │   │   ├───brace-expansion
+│       │   │   │   ├───browser-stdout
+│       │   │   │   ├───buffer-from
+│       │   │   │   ├───caseless
+│       │   │   │   ├───combined-stream
+│       │   │   │   │   └───lib
+│       │   │   │   ├───commander
+│       │   │   │   ├───concat-map
+│       │   │   │   │   ├───example
+│       │   │   │   │   └───test
+│       │   │   │   ├───core-util-is
+│       │   │   │   │   └───lib
+│       │   │   │   ├───dashdash
+│       │   │   │   │   ├───etc
+│       │   │   │   │   └───lib
+│       │   │   │   ├───debug
+│       │   │   │   │   └───src
+│       │   │   │   ├───delayed-stream
+│       │   │   │   │   └───lib
+│       │   │   │   ├───diff
+│       │   │   │   │   ├───dist
+│       │   │   │   │   └───lib
+│       │   │   │   │       ├───convert
+│       │   │   │   │       ├───diff
+│       │   │   │   │       ├───patch
+│       │   │   │   │       └───util
+│       │   │   │   ├───ecc-jsbn
+│       │   │   │   │   └───lib
+│       │   │   │   ├───es6-promise
+│       │   │   │   │   ├───dist
+│       │   │   │   │   └───lib
+│       │   │   │   │       └───es6-promise
+│       │   │   │   │           └───promise
+│       │   │   │   ├───es6-promisify
+│       │   │   │   │   └───dist
+│       │   │   │   ├───escape-string-regexp
+│       │   │   │   ├───extend
+│       │   │   │   ├───extsprintf
+│       │   │   │   │   └───lib
+│       │   │   │   ├───fast-deep-equal
+│       │   │   │   ├───fast-json-stable-stringify
+│       │   │   │   │   ├───benchmark
+│       │   │   │   │   ├───example
+│       │   │   │   │   └───test
+│       │   │   │   ├───forever-agent
+│       │   │   │   ├───form-data
+│       │   │   │   │   └───lib
+│       │   │   │   ├───fs.realpath
+│       │   │   │   ├───getpass
+│       │   │   │   │   └───lib
+│       │   │   │   ├───glob
+│       │   │   │   ├───growl
+│       │   │   │   │   └───lib
+│       │   │   │   ├───har-schema
+│       │   │   │   │   └───lib
+│       │   │   │   ├───har-validator
+│       │   │   │   │   └───lib
+│       │   │   │   ├───has-flag
+│       │   │   │   ├───he
+│       │   │   │   │   ├───bin
+│       │   │   │   │   └───man
+│       │   │   │   ├───http-proxy-agent
+│       │   │   │   │   └───test
+│       │   │   │   ├───http-signature
+│       │   │   │   │   └───lib
+│       │   │   │   ├───https-proxy-agent
+│       │   │   │   │   └───test
+│       │   │   │   ├───inflight
+│       │   │   │   ├───inherits
+│       │   │   │   ├───is-typedarray
+│       │   │   │   ├───isstream
+│       │   │   │   ├───jsbn
+│       │   │   │   ├───json-schema
+│       │   │   │   │   ├───draft-00
+│       │   │   │   │   ├───draft-01
+│       │   │   │   │   ├───draft-02
+│       │   │   │   │   ├───draft-03
+│       │   │   │   │   │   └───examples
+│       │   │   │   │   ├───draft-04
+│       │   │   │   │   ├───lib
+│       │   │   │   │   └───test
+│       │   │   │   ├───json-schema-traverse
+│       │   │   │   │   └───spec
+│       │   │   │   │       └───fixtures
+│       │   │   │   ├───json-stringify-safe
+│       │   │   │   │   └───test
+│       │   │   │   ├───jsprim
+│       │   │   │   │   └───lib
+│       │   │   │   ├───mime-db
+│       │   │   │   ├───mime-types
+│       │   │   │   ├───minimatch
+│       │   │   │   ├───minimist
+│       │   │   │   │   ├───example
+│       │   │   │   │   └───test
+│       │   │   │   ├───mkdirp
+│       │   │   │   │   ├───bin
+│       │   │   │   │   ├───examples
+│       │   │   │   │   └───test
+│       │   │   │   ├───mocha
+│       │   │   │   │   ├───bin
+│       │   │   │   │   ├───lib
+│       │   │   │   │   │   ├───browser
+│       │   │   │   │   │   ├───interfaces
+│       │   │   │   │   │   └───reporters
+│       │   │   │   │   └───node_modules
+│       │   │   │   │       └───glob
+│       │   │   │   ├───ms
+│       │   │   │   ├───oauth-sign
+│       │   │   │   ├───once
+│       │   │   │   ├───path-is-absolute
+│       │   │   │   ├───performance-now
+│       │   │   │   │   ├───lib
+│       │   │   │   │   ├───src
+│       │   │   │   │   └───test
+│       │   │   │   │       └───scripts
+│       │   │   │   ├───psl
+│       │   │   │   │   ├───data
+│       │   │   │   │   ├───dist
+│       │   │   │   │   └───scripts
+│       │   │   │   ├───punycode
+│       │   │   │   ├───qs
+│       │   │   │   │   ├───dist
+│       │   │   │   │   ├───lib
+│       │   │   │   │   └───test
+│       │   │   │   ├───querystringify
+│       │   │   │   ├───request
+│       │   │   │   │   └───lib
+│       │   │   │   ├───requires-port
+│       │   │   │   ├───safe-buffer
+│       │   │   │   ├───safer-buffer
+│       │   │   │   ├───semver
+│       │   │   │   │   └───bin
+│       │   │   │   ├───source-map
+│       │   │   │   │   ├───dist
+│       │   │   │   │   └───lib
+│       │   │   │   ├───source-map-support
+│       │   │   │   ├───sshpk
+│       │   │   │   │   ├───bin
+│       │   │   │   │   ├───lib
+│       │   │   │   │   │   └───formats
+│       │   │   │   │   └───man
+│       │   │   │   │       └───man1
+│       │   │   │   ├───supports-color
+│       │   │   │   ├───tough-cookie
+│       │   │   │   │   ├───lib
+│       │   │   │   │   └───node_modules
+│       │   │   │   │       └───punycode
+│       │   │   │   ├───tunnel-agent
+│       │   │   │   ├───tweetnacl
+│       │   │   │   ├───uri-js
+│       │   │   │   │   ├───dist
+│       │   │   │   │   │   ├───es5
+│       │   │   │   │   │   └───esnext
+│       │   │   │   │   │       └───schemes
+│       │   │   │   │   └───tests
+│       │   │   │   ├───url-parse
+│       │   │   │   │   └───dist
+│       │   │   │   ├───uuid
+│       │   │   │   │   ├───bin
+│       │   │   │   │   └───lib
+│       │   │   │   ├───verror
+│       │   │   │   │   └───lib
+│       │   │   │   ├───vscode
+│       │   │   │   │   ├───bin
+│       │   │   │   │   └───lib
+│       │   │   │   ├───vscode-css-languageservice
+│       │   │   │   │   ├───docs
+│       │   │   │   │   └───lib
+│       │   │   │   │       ├───esm
+│       │   │   │   │       │   ├───data
+│       │   │   │   │       │   ├───languageFacts
+│       │   │   │   │       │   ├───parser
+│       │   │   │   │       │   ├───services
+│       │   │   │   │       │   └───utils
+│       │   │   │   │       └───umd
+│       │   │   │   │           ├───data
+│       │   │   │   │           ├───languageFacts
+│       │   │   │   │           ├───parser
+│       │   │   │   │           ├───services
+│       │   │   │   │           └───utils
+│       │   │   │   ├───vscode-html-languageservice
+│       │   │   │   │   ├───data
+│       │   │   │   │   ├───docs
+│       │   │   │   │   └───lib
+│       │   │   │   │       ├───esm
+│       │   │   │   │       │   ├───beautify
+│       │   │   │   │       │   ├───languageFacts
+│       │   │   │   │       │   │   └───data
+│       │   │   │   │       │   ├───parser
+│       │   │   │   │       │   ├───services
+│       │   │   │   │       │   └───utils
+│       │   │   │   │       └───umd
+│       │   │   │   │           ├───beautify
+│       │   │   │   │           ├───languageFacts
+│       │   │   │   │           │   └───data
+│       │   │   │   │           ├───parser
+│       │   │   │   │           ├───services
+│       │   │   │   │           └───utils
+│       │   │   │   ├───vscode-jsonrpc
+│       │   │   │   │   └───lib
+│       │   │   │   ├───vscode-languageserver
+│       │   │   │   │   ├───bin
+│       │   │   │   │   └───lib
+│       │   │   │   │       └───utils
+│       │   │   │   ├───vscode-languageserver-protocol
+│       │   │   │   │   ├───lib
+│       │   │   │   │   │   └───utils
+│       │   │   │   │   └───node_modules
+│       │   │   │   │       └───vscode-languageserver-types
+│       │   │   │   │           └───lib
+│       │   │   │   ├───vscode-languageserver-types
+│       │   │   │   │   └───lib
+│       │   │   │   │       ├───esm
+│       │   │   │   │       └───umd
+│       │   │   │   ├───vscode-nls
+│       │   │   │   │   └───lib
+│       │   │   │   ├───vscode-test
+│       │   │   │   │   └───out
+│       │   │   │   ├───vscode-uri
+│       │   │   │   │   ├───.vscode
+│       │   │   │   │   └───lib
+│       │   │   │   │       ├───esm
+│       │   │   │   │       └───umd
+│       │   │   │   └───wrappy
+│       │   │   ├───src
+│       │   │   │   ├───core
+│       │   │   │   └───logger
+│       │   │   ├───types
+│       │   │   └───utils
+│       │   └───test
+│       │       └───test_files
+│       ├───ritwickdey.liveserver-5.6.1
+│       │   ├───images
+│       │   ├───node_modules
+│       │   │   ├───accepts
+│       │   │   ├───anymatch
+│       │   │   │   └───node_modules
+│       │   │   │       └───normalize-path
+│       │   │   ├───apache-crypt
+│       │   │   │   └───src
+│       │   │   ├───apache-md5
+│       │   │   │   └───src
+│       │   │   ├───arr-diff
+│       │   │   ├───arr-flatten
+│       │   │   ├───arr-union
+│       │   │   ├───array-find-index
+│       │   │   ├───array-unique
+│       │   │   ├───assign-symbols
+│       │   │   ├───async-each
+│       │   │   ├───atob
+│       │   │   │   └───bin
+│       │   │   ├───base
+│       │   │   │   └───node_modules
+│       │   │   │       ├───define-property
+│       │   │   │       ├───is-accessor-descriptor
+│       │   │   │       ├───is-data-descriptor
+│       │   │   │       └───is-descriptor
+│       │   │   ├───basic-auth
+│       │   │   ├───batch
+│       │   │   ├───bcryptjs
+│       │   │   │   ├───.vscode
+│       │   │   │   ├───bin
+│       │   │   │   ├───dist
+│       │   │   │   ├───externs
+│       │   │   │   ├───scripts
+│       │   │   │   ├───src
+│       │   │   │   │   └───bcrypt
+│       │   │   │   │       ├───prng
+│       │   │   │   │       └───util
+│       │   │   │   └───tests
+│       │   │   ├───binary-extensions
+│       │   │   ├───braces
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       └───extend-shallow
+│       │   │   ├───cache-base
+│       │   │   ├───camelcase
+│       │   │   ├───camelcase-keys
+│       │   │   ├───capture-stack-trace
+│       │   │   ├───chokidar
+│       │   │   │   ├───lib
+│       │   │   │   └───types
+│       │   │   ├───class-utils
+│       │   │   │   └───node_modules
+│       │   │   │       └───define-property
+│       │   │   ├───collection-visit
+│       │   │   ├───colors
+│       │   │   │   ├───examples
+│       │   │   │   ├───lib
+│       │   │   │   │   ├───custom
+│       │   │   │   │   ├───maps
+│       │   │   │   │   └───system
+│       │   │   │   └───themes
+│       │   │   ├───component-emitter
+│       │   │   ├───connect
+│       │   │   ├───copy-descriptor
+│       │   │   ├───core-util-is
+│       │   │   │   └───lib
+│       │   │   ├───cors
+│       │   │   │   └───lib
+│       │   │   ├───create-error-class
+│       │   │   ├───currently-unhandled
+│       │   │   ├───debug
+│       │   │   │   └───src
+│       │   │   ├───decamelize
+│       │   │   ├───decode-uri-component
+│       │   │   ├───define-property
+│       │   │   │   └───node_modules
+│       │   │   │       ├───is-accessor-descriptor
+│       │   │   │       ├───is-data-descriptor
+│       │   │   │       └───is-descriptor
+│       │   │   ├───depd
+│       │   │   │   └───lib
+│       │   │   │       ├───browser
+│       │   │   │       └───compat
+│       │   │   ├───destroy
+│       │   │   ├───duplexer
+│       │   │   │   └───test
+│       │   │   ├───duplexer2
+│       │   │   ├───ee-first
+│       │   │   ├───encodeurl
+│       │   │   ├───error-ex
+│       │   │   ├───escape-html
+│       │   │   ├───etag
+│       │   │   ├───event-stream
+│       │   │   │   ├───examples
+│       │   │   │   └───test
+│       │   │   │       └───helper
+│       │   │   ├───eventemitter3
+│       │   │   │   └───umd
+│       │   │   ├───expand-brackets
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       ├───define-property
+│       │   │   │       └───extend-shallow
+│       │   │   ├───extend-shallow
+│       │   │   │   └───node_modules
+│       │   │   │       └───is-extendable
+│       │   │   ├───extglob
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       ├───define-property
+│       │   │   │       ├───extend-shallow
+│       │   │   │       ├───is-accessor-descriptor
+│       │   │   │       ├───is-data-descriptor
+│       │   │   │       └───is-descriptor
+│       │   │   ├───faye-websocket
+│       │   │   │   ├───examples
+│       │   │   │   └───lib
+│       │   │   │       └───faye
+│       │   │   │           └───websocket
+│       │   │   │               └───api
+│       │   │   ├───fill-range
+│       │   │   │   └───node_modules
+│       │   │   │       └───extend-shallow
+│       │   │   ├───finalhandler
+│       │   │   ├───find-up
+│       │   │   ├───follow-redirects
+│       │   │   │   └───node_modules
+│       │   │   │       ├───debug
+│       │   │   │       │   ├───dist
+│       │   │   │       │   └───src
+│       │   │   │       └───ms
+│       │   │   ├───for-in
+│       │   │   ├───fragment-cache
+│       │   │   ├───fresh
+│       │   │   ├───from
+│       │   │   │   └───test
+│       │   │   ├───fsevents
+│       │   │   │   ├───lib
+│       │   │   │   │   └───binding
+│       │   │   │   │       └───Release
+│       │   │   │   │           └───node-v64-darwin-x64
+│       │   │   │   ├───node_modules
+│       │   │   │   │   ├───abbrev
+│       │   │   │   │   ├───ansi-regex
+│       │   │   │   │   ├───aproba
+│       │   │   │   │   ├───are-we-there-yet
+│       │   │   │   │   ├───balanced-match
+│       │   │   │   │   ├───brace-expansion
+│       │   │   │   │   ├───chownr
+│       │   │   │   │   ├───code-point-at
+│       │   │   │   │   ├───concat-map
+│       │   │   │   │   │   ├───example
+│       │   │   │   │   │   └───test
+│       │   │   │   │   ├───console-control-strings
+│       │   │   │   │   ├───core-util-is
+│       │   │   │   │   │   └───lib
+│       │   │   │   │   ├───debug
+│       │   │   │   │   │   └───src
+│       │   │   │   │   ├───deep-extend
+│       │   │   │   │   │   └───lib
+│       │   │   │   │   ├───delegates
+│       │   │   │   │   │   └───test
+│       │   │   │   │   ├───detect-libc
+│       │   │   │   │   │   ├───bin
+│       │   │   │   │   │   └───lib
+│       │   │   │   │   ├───fs-minipass
+│       │   │   │   │   ├───fs.realpath
+│       │   │   │   │   ├───gauge
+│       │   │   │   │   ├───glob
+│       │   │   │   │   ├───has-unicode
+│       │   │   │   │   ├───iconv-lite
+│       │   │   │   │   │   ├───encodings
+│       │   │   │   │   │   │   └───tables
+│       │   │   │   │   │   └───lib
+│       │   │   │   │   ├───ignore-walk
+│       │   │   │   │   ├───inflight
+│       │   │   │   │   ├───inherits
+│       │   │   │   │   ├───ini
+│       │   │   │   │   ├───is-fullwidth-code-point
+│       │   │   │   │   ├───isarray
+│       │   │   │   │   ├───minimatch
+│       │   │   │   │   ├───minimist
+│       │   │   │   │   │   ├───example
+│       │   │   │   │   │   └───test
+│       │   │   │   │   ├───minipass
+│       │   │   │   │   ├───minizlib
+│       │   │   │   │   ├───mkdirp
+│       │   │   │   │   │   ├───bin
+│       │   │   │   │   │   ├───examples
+│       │   │   │   │   │   └───test
+│       │   │   │   │   ├───ms
+│       │   │   │   │   ├───needle
+│       │   │   │   │   │   ├───bin
+│       │   │   │   │   │   ├───examples
+│       │   │   │   │   │   ├───lib
+│       │   │   │   │   │   └───test
+│       │   │   │   │   │       └───utils
+│       │   │   │   │   ├───node-pre-gyp
+│       │   │   │   │   │   ├───bin
+│       │   │   │   │   │   └───lib
+│       │   │   │   │   │       └───util
+│       │   │   │   │   │           └───nw-pre-gyp
+│       │   │   │   │   ├───nopt
+│       │   │   │   │   │   ├───bin
+│       │   │   │   │   │   ├───examples
+│       │   │   │   │   │   ├───lib
+│       │   │   │   │   │   └───test
+│       │   │   │   │   ├───npm-bundled
+│       │   │   │   │   ├───npm-packlist
+│       │   │   │   │   ├───npmlog
+│       │   │   │   │   ├───number-is-nan
+│       │   │   │   │   ├───object-assign
+│       │   │   │   │   ├───once
+│       │   │   │   │   ├───os-homedir
+│       │   │   │   │   ├───os-tmpdir
+│       │   │   │   │   ├───osenv
+│       │   │   │   │   ├───path-is-absolute
+│       │   │   │   │   ├───process-nextick-args
+│       │   │   │   │   ├───rc
+│       │   │   │   │   │   ├───lib
+│       │   │   │   │   │   ├───node_modules
+│       │   │   │   │   │   │   └───minimist
+│       │   │   │   │   │   │       ├───example
+│       │   │   │   │   │   │       └───test
+│       │   │   │   │   │   └───test
+│       │   │   │   │   ├───readable-stream
+│       │   │   │   │   │   ├───doc
+│       │   │   │   │   │   │   └───wg-meetings
+│       │   │   │   │   │   └───lib
+│       │   │   │   │   │       └───internal
+│       │   │   │   │   │           └───streams
+│       │   │   │   │   ├───rimraf
+│       │   │   │   │   ├───safe-buffer
+│       │   │   │   │   ├───safer-buffer
+│       │   │   │   │   ├───sax
+│       │   │   │   │   │   └───lib
+│       │   │   │   │   ├───semver
+│       │   │   │   │   │   └───bin
+│       │   │   │   │   ├───set-blocking
+│       │   │   │   │   ├───signal-exit
+│       │   │   │   │   ├───string-width
+│       │   │   │   │   ├───string_decoder
+│       │   │   │   │   │   └───lib
+│       │   │   │   │   ├───strip-ansi
+│       │   │   │   │   ├───strip-json-comments
+│       │   │   │   │   ├───tar
+│       │   │   │   │   │   └───lib
+│       │   │   │   │   ├───util-deprecate
+│       │   │   │   │   ├───wide-align
+│       │   │   │   │   ├───wrappy
+│       │   │   │   │   └───yallist
+│       │   │   │   └───src
+│       │   │   ├───get-stdin
+│       │   │   ├───get-value
+│       │   │   ├───glob-parent
+│       │   │   │   └───node_modules
+│       │   │   │       └───is-glob
+│       │   │   ├───got
+│       │   │   ├───graceful-fs
+│       │   │   ├───has-value
+│       │   │   ├───has-values
+│       │   │   │   └───node_modules
+│       │   │   │       └───kind-of
+│       │   │   ├───hosted-git-info
+│       │   │   ├───http-auth
+│       │   │   │   └───src
+│       │   │   │       ├───auth
+│       │   │   │       └───server
+│       │   │   ├───http-errors
+│       │   │   │   └───node_modules
+│       │   │   │       └───statuses
+│       │   │   ├───http-parser-js
+│       │   │   ├───http-proxy
+│       │   │   │   ├───.nyc_output
+│       │   │   │   ├───coverage
+│       │   │   │   │   └───lcov-report
+│       │   │   │   │       ├───http-proxy
+│       │   │   │   │       │   └───passes
+│       │   │   │   │       └───lib
+│       │   │   │   │           └───http-proxy
+│       │   │   │   │               └───passes
+│       │   │   │   └───lib
+│       │   │   │       └───http-proxy
+│       │   │   │           └───passes
+│       │   │   ├───http-shutdown
+│       │   │   ├───indent-string
+│       │   │   ├───inherits
+│       │   │   ├───internal-ip
+│       │   │   ├───ip-regex
+│       │   │   ├───ipify
+│       │   │   ├───ips
+│       │   │   │   ├───bin
+│       │   │   │   ├───examples
+│       │   │   │   └───test
+│       │   │   ├───is-accessor-descriptor
+│       │   │   │   └───node_modules
+│       │   │   │       └───kind-of
+│       │   │   ├───is-arrayish
+│       │   │   ├───is-binary-path
+│       │   │   ├───is-buffer
+│       │   │   │   └───test
+│       │   │   ├───is-data-descriptor
+│       │   │   │   └───node_modules
+│       │   │   │       └───kind-of
+│       │   │   ├───is-descriptor
+│       │   │   │   └───node_modules
+│       │   │   │       └───kind-of
+│       │   │   ├───is-extendable
+│       │   │   ├───is-extglob
+│       │   │   ├───is-finite
+│       │   │   ├───is-glob
+│       │   │   ├───is-number
+│       │   │   │   └───node_modules
+│       │   │   │       └───kind-of
+│       │   │   ├───is-plain-object
+│       │   │   ├───is-redirect
+│       │   │   ├───is-retry-allowed
+│       │   │   ├───is-stream
+│       │   │   ├───is-utf8
+│       │   │   ├───is-windows
+│       │   │   ├───is-wsl
+│       │   │   ├───isarray
+│       │   │   ├───isobject
+│       │   │   ├───kind-of
+│       │   │   ├───live-server
+│       │   │   ├───load-json-file
+│       │   │   ├───loud-rejection
+│       │   │   ├───lowercase-keys
+│       │   │   ├───map-cache
+│       │   │   ├───map-obj
+│       │   │   ├───map-stream
+│       │   │   │   ├───examples
+│       │   │   │   └───test
+│       │   │   ├───map-visit
+│       │   │   ├───meow
+│       │   │   ├───micromatch
+│       │   │   │   └───lib
+│       │   │   ├───mime
+│       │   │   │   └───build
+│       │   │   ├───mime-db
+│       │   │   ├───mime-types
+│       │   │   ├───minimist
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   ├───mixin-deep
+│       │   │   │   └───node_modules
+│       │   │   │       └───is-extendable
+│       │   │   ├───morgan
+│       │   │   ├───ms
+│       │   │   ├───nan
+│       │   │   │   ├───doc
+│       │   │   │   └───tools
+│       │   │   ├───nanomatch
+│       │   │   │   └───lib
+│       │   │   ├───negotiator
+│       │   │   │   └───lib
+│       │   │   ├───node-status-codes
+│       │   │   ├───normalize-package-data
+│       │   │   │   └───lib
+│       │   │   ├───normalize-path
+│       │   │   ├───number-is-nan
+│       │   │   ├───object-assign
+│       │   │   ├───object-copy
+│       │   │   │   └───node_modules
+│       │   │   │       ├───define-property
+│       │   │   │       └───kind-of
+│       │   │   ├───object-visit
+│       │   │   ├───object.pick
+│       │   │   ├───on-finished
+│       │   │   ├───on-headers
+│       │   │   ├───opn
+│       │   │   ├───parse-json
+│       │   │   │   └───vendor
+│       │   │   ├───parseurl
+│       │   │   ├───pascalcase
+│       │   │   ├───path-dirname
+│       │   │   ├───path-exists
+│       │   │   ├───path-is-absolute
+│       │   │   ├───path-parse
+│       │   │   ├───path-type
+│       │   │   ├───pause-stream
+│       │   │   │   └───test
+│       │   │   ├───pify
+│       │   │   ├───pinkie
+│       │   │   ├───pinkie-promise
+│       │   │   ├───posix-character-classes
+│       │   │   ├───prepend-http
+│       │   │   ├───process-nextick-args
+│       │   │   ├───proxy-middleware
+│       │   │   ├───range-parser
+│       │   │   ├───read-all-stream
+│       │   │   ├───read-pkg
+│       │   │   ├───read-pkg-up
+│       │   │   ├───readable-stream
+│       │   │   │   ├───doc
+│       │   │   │   │   └───wg-meetings
+│       │   │   │   └───lib
+│       │   │   │       └───internal
+│       │   │   │           └───streams
+│       │   │   ├───readdirp
+│       │   │   ├───redent
+│       │   │   ├───regex-not
+│       │   │   ├───remove-trailing-separator
+│       │   │   ├───repeat-element
+│       │   │   ├───repeat-string
+│       │   │   ├───repeating
+│       │   │   ├───requires-port
+│       │   │   ├───resolve
+│       │   │   │   ├───example
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   │       ├───dotdot
+│       │   │   │       │   └───abc
+│       │   │   │       ├───module_dir
+│       │   │   │       │   ├───xmodules
+│       │   │   │       │   │   └───aaa
+│       │   │   │       │   ├───ymodules
+│       │   │   │       │   │   └───aaa
+│       │   │   │       │   └───zmodules
+│       │   │   │       │       └───bbb
+│       │   │   │       ├───node_path
+│       │   │   │       │   ├───x
+│       │   │   │       │   │   ├───aaa
+│       │   │   │       │   │   └───ccc
+│       │   │   │       │   └───y
+│       │   │   │       │       ├───bbb
+│       │   │   │       │       └───ccc
+│       │   │   │       ├───pathfilter
+│       │   │   │       │   └───deep_ref
+│       │   │   │       ├───precedence
+│       │   │   │       │   ├───aaa
+│       │   │   │       │   └───bbb
+│       │   │   │       └───resolver
+│       │   │   │           ├───baz
+│       │   │   │           ├───browser_field
+│       │   │   │           ├───dot_main
+│       │   │   │           ├───dot_slash_main
+│       │   │   │           ├───incorrect_main
+│       │   │   │           ├───invalid_main
+│       │   │   │           ├───multirepo
+│       │   │   │           │   └───packages
+│       │   │   │           │       ├───package-a
+│       │   │   │           │       └───package-b
+│       │   │   │           ├───other_path
+│       │   │   │           │   └───lib
+│       │   │   │           ├───quux
+│       │   │   │           │   └───foo
+│       │   │   │           ├───same_names
+│       │   │   │           │   └───foo
+│       │   │   │           ├───symlinked
+│       │   │   │           │   └───_
+│       │   │   │           │       ├───node_modules
+│       │   │   │           │       └───symlink_target
+│       │   │   │           └───without_basedir
+│       │   │   ├───resolve-url
+│       │   │   │   └───test
+│       │   │   ├───ret
+│       │   │   │   └───lib
+│       │   │   ├───safe-buffer
+│       │   │   ├───safe-regex
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   ├───semver
+│       │   │   │   └───bin
+│       │   │   ├───send
+│       │   │   │   └───node_modules
+│       │   │   │       └───statuses
+│       │   │   ├───serve-index
+│       │   │   │   └───public
+│       │   │   │       └───icons
+│       │   │   ├───set-value
+│       │   │   │   └───node_modules
+│       │   │   │       └───extend-shallow
+│       │   │   ├───setprototypeof
+│       │   │   ├───signal-exit
+│       │   │   ├───snapdragon
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       ├───define-property
+│       │   │   │       └───extend-shallow
+│       │   │   ├───snapdragon-node
+│       │   │   │   └───node_modules
+│       │   │   │       ├───define-property
+│       │   │   │       ├───is-accessor-descriptor
+│       │   │   │       ├───is-data-descriptor
+│       │   │   │       └───is-descriptor
+│       │   │   ├───snapdragon-util
+│       │   │   │   └───node_modules
+│       │   │   │       └───kind-of
+│       │   │   ├───source-map
+│       │   │   │   ├───dist
+│       │   │   │   └───lib
+│       │   │   ├───source-map-resolve
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───source-map-url
+│       │   │   │   └───test
+│       │   │   ├───spdx-correct
+│       │   │   ├───spdx-exceptions
+│       │   │   ├───spdx-expression-parse
+│       │   │   ├───spdx-license-ids
+│       │   │   ├───split
+│       │   │   │   ├───examples
+│       │   │   │   └───test
+│       │   │   ├───split-string
+│       │   │   ├───static-extend
+│       │   │   │   └───node_modules
+│       │   │   │       └───define-property
+│       │   │   ├───statuses
+│       │   │   ├───stream-combiner
+│       │   │   │   └───test
+│       │   │   ├───string_decoder
+│       │   │   │   └───lib
+│       │   │   ├───strip-bom
+│       │   │   ├───strip-indent
+│       │   │   ├───through
+│       │   │   │   └───test
+│       │   │   ├───timed-out
+│       │   │   ├───to-object-path
+│       │   │   │   └───node_modules
+│       │   │   │       └───kind-of
+│       │   │   ├───to-regex
+│       │   │   ├───to-regex-range
+│       │   │   ├───trim-newlines
+│       │   │   ├───union-value
+│       │   │   │   └───node_modules
+│       │   │   │       ├───extend-shallow
+│       │   │   │       └───set-value
+│       │   │   ├───unix-crypt-td-js
+│       │   │   │   ├───dist
+│       │   │   │   ├───src
+│       │   │   │   └───test
+│       │   │   ├───unpipe
+│       │   │   ├───unset-value
+│       │   │   │   └───node_modules
+│       │   │   │       ├───has-value
+│       │   │   │       │   └───node_modules
+│       │   │   │       │       └───isobject
+│       │   │   │       └───has-values
+│       │   │   ├───unzip-response
+│       │   │   ├───upath
+│       │   │   │   └───build
+│       │   │   │       └───code
+│       │   │   ├───urix
+│       │   │   │   └───test
+│       │   │   ├───url-parse-lax
+│       │   │   ├───use
+│       │   │   ├───util-deprecate
+│       │   │   ├───utils-merge
+│       │   │   ├───uuid
+│       │   │   │   ├───bin
+│       │   │   │   └───lib
+│       │   │   ├───validate-npm-package-license
+│       │   │   ├───vary
+│       │   │   ├───vsls
+│       │   │   ├───websocket-driver
+│       │   │   │   └───lib
+│       │   │   │       └───websocket
+│       │   │   │           └───driver
+│       │   │   │               └───hybi
+│       │   │   └───websocket-extensions
+│       │   │       └───lib
+│       │   │           └───pipeline
+│       │   └───out
+│       │       └───src
+│       │           └───announcement
+│       ├───shd101wyy.markdown-preview-enhanced-0.4.3
+│       │   ├───media
+│       │   ├───node_modules
+│       │   │   ├───@shd101wyy
+│       │   │   │   └───mume
+│       │   │   │       ├───dependencies
+│       │   │   │       │   ├───crypto-js
+│       │   │   │       │   ├───ditaa
+│       │   │   │       │   ├───electron-webview
+│       │   │   │       │   ├───flowchart
+│       │   │   │       │   ├───font-awesome
+│       │   │   │       │   │   ├───css
+│       │   │   │       │   │   └───fonts
+│       │   │   │       │   ├───javascript-md5
+│       │   │   │       │   ├───jquery
+│       │   │   │       │   ├───jquery-contextmenu
+│       │   │   │       │   │   └───font
+│       │   │   │       │   ├───jquery-modal
+│       │   │   │       │   ├───js-sequence-diagrams
+│       │   │   │       │   ├───katex
+│       │   │   │       │   │   ├───contrib
+│       │   │   │       │   │   └───fonts
+│       │   │   │       │   ├───markdown-it
+│       │   │   │       │   │   └───extensions
+│       │   │   │       │   ├───mathjax
+│       │   │   │       │   │   ├───config
+│       │   │   │       │   │   ├───extensions
+│       │   │   │       │   │   │   ├───a11y
+│       │   │   │       │   │   │   │   └───mathmaps
+│       │   │   │       │   │   │   │       ├───en
+│       │   │   │       │   │   │   │       │   ├───functions
+│       │   │   │       │   │   │   │       │   ├───symbols
+│       │   │   │       │   │   │   │       │   └───units
+│       │   │   │       │   │   │   │       ├───es
+│       │   │   │       │   │   │   │       │   ├───functions
+│       │   │   │       │   │   │   │       │   ├───symbols
+│       │   │   │       │   │   │   │       │   └───units
+│       │   │   │       │   │   │   │       ├───functions
+│       │   │   │       │   │   │   │       ├───symbols
+│       │   │   │       │   │   │   │       └───units
+│       │   │   │       │   │   │   ├───HTML-CSS
+│       │   │   │       │   │   │   ├───MathML
+│       │   │   │       │   │   │   └───TeX
+│       │   │   │       │   │   │       └───mhchem3
+│       │   │   │       │   │   ├───fonts
+│       │   │   │       │   │   │   └───HTML-CSS
+│       │   │   │       │   │   │       └───TeX
+│       │   │   │       │   │   │           ├───eot
+│       │   │   │       │   │   │           ├───otf
+│       │   │   │       │   │   │           └───woff
+│       │   │   │       │   │   └───jax
+│       │   │   │       │   │       ├───element
+│       │   │   │       │   │       │   └───mml
+│       │   │   │       │   │       │       └───optable
+│       │   │   │       │   │       ├───input
+│       │   │   │       │   │       │   ├───AsciiMath
+│       │   │   │       │   │       │   ├───MathML
+│       │   │   │       │   │       │   │   └───entities
+│       │   │   │       │   │       │   └───TeX
+│       │   │   │       │   │       └───output
+│       │   │   │       │   │           ├───CommonHTML
+│       │   │   │       │   │           │   ├───autoload
+│       │   │   │       │   │           │   └───fonts
+│       │   │   │       │   │           │       └───TeX
+│       │   │   │       │   │           └───HTML-CSS
+│       │   │   │       │   │               ├───autoload
+│       │   │   │       │   │               └───fonts
+│       │   │   │       │   │                   ├───Asana-Math
+│       │   │   │       │   │                   │   ├───Alphabets
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Arrows
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───DoubleStruck
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Fraktur
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Latin
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Main
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Marks
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Misc
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Monospace
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───NonUnicode
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Normal
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Operators
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───SansSerif
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Script
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Shapes
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size1
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size2
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size3
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size4
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size5
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size6
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Symbols
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   └───Variants
+│       │   │   │       │   │                   │       └───Regular
+│       │   │   │       │   │                   ├───Gyre-Pagella
+│       │   │   │       │   │                   │   ├───Alphabets
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Arrows
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───DoubleStruck
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Fraktur
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Latin
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Main
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Marks
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Misc
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Monospace
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───NonUnicode
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Normal
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Operators
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───SansSerif
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Script
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Shapes
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size1
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size2
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size3
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size4
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size5
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size6
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Symbols
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   └───Variants
+│       │   │   │       │   │                   │       └───Regular
+│       │   │   │       │   │                   ├───Gyre-Termes
+│       │   │   │       │   │                   │   ├───Alphabets
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Arrows
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───DoubleStruck
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Fraktur
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Latin
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Main
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Marks
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Misc
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Monospace
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───NonUnicode
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Normal
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Operators
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───SansSerif
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Script
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Shapes
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size1
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size2
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size3
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size4
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size5
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size6
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Symbols
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   └───Variants
+│       │   │   │       │   │                   │       └───Regular
+│       │   │   │       │   │                   ├───Latin-Modern
+│       │   │   │       │   │                   │   ├───Alphabets
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Arrows
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───DoubleStruck
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Fraktur
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Latin
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Main
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Marks
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Misc
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Monospace
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───NonUnicode
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Normal
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Operators
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───SansSerif
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Script
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Shapes
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size1
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size2
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size3
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size4
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size5
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size6
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size7
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Symbols
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   └───Variants
+│       │   │   │       │   │                   │       └───Regular
+│       │   │   │       │   │                   ├───Neo-Euler
+│       │   │   │       │   │                   │   ├───Alphabets
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Arrows
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Fraktur
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Main
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Marks
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───NonUnicode
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Normal
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Operators
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Script
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Shapes
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size1
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size2
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size3
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size4
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size5
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Symbols
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   └───Variants
+│       │   │   │       │   │                   │       └───Regular
+│       │   │   │       │   │                   ├───STIX
+│       │   │   │       │   │                   │   ├───General
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   ├───Italic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───IntegralsD
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───IntegralsSm
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───IntegralsUp
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───IntegralsUpD
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───IntegralsUpSm
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───NonUnicode
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   ├───Italic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───SizeFiveSym
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───SizeFourSym
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───SizeOneSym
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───SizeThreeSym
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───SizeTwoSym
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   └───Variants
+│       │   │   │       │   │                   │       ├───Bold
+│       │   │   │       │   │                   │       └───Regular
+│       │   │   │       │   │                   ├───STIX-Web
+│       │   │   │       │   │                   │   ├───Alphabets
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   ├───Italic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Arrows
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───DoubleStruck
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   ├───Italic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Fraktur
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Latin
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   ├───Italic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Main
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   ├───Italic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Marks
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   ├───Italic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Misc
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   ├───Italic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Monospace
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Normal
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   └───Italic
+│       │   │   │       │   │                   │   ├───Operators
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───SansSerif
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   ├───Italic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Script
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   ├───Italic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Shapes
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   ├───BoldItalic
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size1
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size2
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size3
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size4
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Size5
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   ├───Symbols
+│       │   │   │       │   │                   │   │   ├───Bold
+│       │   │   │       │   │                   │   │   └───Regular
+│       │   │   │       │   │                   │   └───Variants
+│       │   │   │       │   │                   │       ├───Bold
+│       │   │   │       │   │                   │       ├───BoldItalic
+│       │   │   │       │   │                   │       ├───Italic
+│       │   │   │       │   │                   │       └───Regular
+│       │   │   │       │   │                   └───TeX
+│       │   │   │       │   │                       ├───AMS
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Caligraphic
+│       │   │   │       │   │                       │   ├───Bold
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Fraktur
+│       │   │   │       │   │                       │   ├───Bold
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Greek
+│       │   │   │       │   │                       │   ├───Bold
+│       │   │   │       │   │                       │   ├───BoldItalic
+│       │   │   │       │   │                       │   ├───Italic
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Main
+│       │   │   │       │   │                       │   ├───Bold
+│       │   │   │       │   │                       │   ├───Italic
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Math
+│       │   │   │       │   │                       │   ├───BoldItalic
+│       │   │   │       │   │                       │   └───Italic
+│       │   │   │       │   │                       ├───SansSerif
+│       │   │   │       │   │                       │   ├───Bold
+│       │   │   │       │   │                       │   ├───Italic
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Script
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Size1
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Size2
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Size3
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Size4
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───Typewriter
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       ├───WinChrome
+│       │   │   │       │   │                       │   └───Regular
+│       │   │   │       │   │                       └───WinIE6
+│       │   │   │       │   │                           └───Regular
+│       │   │   │       │   ├───mermaid
+│       │   │   │       │   ├───plantuml
+│       │   │   │       │   ├───prism
+│       │   │   │       │   ├───raphael
+│       │   │   │       │   ├───remarkable
+│       │   │   │       │   ├───reveal
+│       │   │   │       │   │   ├───css
+│       │   │   │       │   │   │   ├───print
+│       │   │   │       │   │   │   └───theme
+│       │   │   │       │   │   ├───js
+│       │   │   │       │   │   ├───lib
+│       │   │   │       │   │   │   ├───css
+│       │   │   │       │   │   │   ├───font
+│       │   │   │       │   │   │   │   ├───league-gothic
+│       │   │   │       │   │   │   │   └───source-sans-pro
+│       │   │   │       │   │   │   └───js
+│       │   │   │       │   │   └───plugin
+│       │   │   │       │   │       ├───highlight
+│       │   │   │       │   │       ├───markdown
+│       │   │   │       │   │       ├───math
+│       │   │   │       │   │       ├───multiplex
+│       │   │   │       │   │       ├───notes
+│       │   │   │       │   │       ├───notes-server
+│       │   │   │       │   │       ├───print-pdf
+│       │   │   │       │   │       ├───search
+│       │   │   │       │   │       └───zoom-js
+│       │   │   │       │   ├───underscore
+│       │   │   │       │   ├───vega
+│       │   │   │       │   ├───vega-embed
+│       │   │   │       │   ├───vega-lite
+│       │   │   │       │   ├───viz
+│       │   │   │       │   ├───wavedrom
+│       │   │   │       │   └───webfont
+│       │   │   │       ├───out
+│       │   │   │       │   ├───src
+│       │   │   │       │   │   ├───custom-markdown-it-features
+│       │   │   │       │   │   ├───lib
+│       │   │   │       │   │   │   ├───attributes
+│       │   │   │       │   │   │   └───block-info
+│       │   │   │       │   │   └───render-enhancers
+│       │   │   │       │   └───test
+│       │   │   │       │       └───lib
+│       │   │   │       └───styles
+│       │   │   │           ├───preview_theme
+│       │   │   │           │   └───src
+│       │   │   │           ├───prism_theme
+│       │   │   │           │   └───src
+│       │   │   │           └───src
+│       │   │   ├───@types
+│       │   │   │   ├───node
+│       │   │   │   │   └───ts3.2
+│       │   │   │   ├───unist
+│       │   │   │   ├───vfile
+│       │   │   │   │   └───node_modules
+│       │   │   │   │       └───@types
+│       │   │   │   │           └───node
+│       │   │   │   │               └───ts3.2
+│       │   │   │   └───vfile-message
+│       │   │   │       └───node_modules
+│       │   │   │           └───@types
+│       │   │   │               └───node
+│       │   │   │                   └───ts3.2
+│       │   │   ├───address
+│       │   │   │   └───lib
+│       │   │   ├───agent-base
+│       │   │   │   └───test
+│       │   │   ├───agentkeepalive
+│       │   │   │   └───lib
+│       │   │   ├───ajv
+│       │   │   │   ├───dist
+│       │   │   │   ├───lib
+│       │   │   │   │   ├───compile
+│       │   │   │   │   ├───dot
+│       │   │   │   │   ├───dotjs
+│       │   │   │   │   └───refs
+│       │   │   │   └───scripts
+│       │   │   ├───any-promise
+│       │   │   │   └───register
+│       │   │   ├───argparse
+│       │   │   │   └───lib
+│       │   │   │       ├───action
+│       │   │   │       │   ├───append
+│       │   │   │       │   └───store
+│       │   │   │       ├───argument
+│       │   │   │       └───help
+│       │   │   ├───asap
+│       │   │   ├───asn1
+│       │   │   │   └───lib
+│       │   │   │       └───ber
+│       │   │   ├───assert-plus
+│       │   │   ├───async-limiter
+│       │   │   │   └───coverage
+│       │   │   │       └───lcov-report
+│       │   │   │           └───async-throttle
+│       │   │   ├───asynckit
+│       │   │   │   └───lib
+│       │   │   ├───aws-sign2
+│       │   │   ├───aws4
+│       │   │   ├───babyparse
+│       │   │   │   └───tests
+│       │   │   ├───balanced-match
+│       │   │   ├───bcrypt-pbkdf
+│       │   │   ├───boolbase
+│       │   │   ├───brace-expansion
+│       │   │   ├───buffer-from
+│       │   │   ├───caseless
+│       │   │   ├───cheerio
+│       │   │   │   └───lib
+│       │   │   │       └───api
+│       │   │   ├───chrome-location
+│       │   │   ├───clone
+│       │   │   ├───combined-stream
+│       │   │   │   └───lib
+│       │   │   ├───commander
+│       │   │   │   └───typings
+│       │   │   ├───concat-map
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   ├───concat-stream
+│       │   │   │   └───node_modules
+│       │   │   │       ├───readable-stream
+│       │   │   │       │   ├───doc
+│       │   │   │       │   │   └───wg-meetings
+│       │   │   │       │   └───lib
+│       │   │   │       │       └───internal
+│       │   │   │       │           └───streams
+│       │   │   │       └───string_decoder
+│       │   │   │           └───lib
+│       │   │   ├───content-type
+│       │   │   ├───core-util-is
+│       │   │   │   └───lib
+│       │   │   ├───crc32
+│       │   │   │   ├───bin
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   │       └───testFiles
+│       │   │   ├───css-select
+│       │   │   │   └───lib
+│       │   │   ├───css-what
+│       │   │   ├───d3-dsv
+│       │   │   │   ├───bin
+│       │   │   │   ├───dist
+│       │   │   │   └───src
+│       │   │   ├───d3-time
+│       │   │   │   ├───dist
+│       │   │   │   └───src
+│       │   │   ├───d3-time-format
+│       │   │   │   ├───dist
+│       │   │   │   ├───locale
+│       │   │   │   └───src
+│       │   │   ├───dashdash
+│       │   │   │   ├───etc
+│       │   │   │   └───lib
+│       │   │   ├───debug
+│       │   │   │   ├───dist
+│       │   │   │   └───src
+│       │   │   ├───default-user-agent
+│       │   │   ├───delayed-stream
+│       │   │   │   └───lib
+│       │   │   ├───destroy
+│       │   │   ├───digest-header
+│       │   │   ├───dom-serializer
+│       │   │   ├───domelementtype
+│       │   │   ├───domhandler
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   │       └───cases
+│       │   │   ├───domutils
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   │       └───tests
+│       │   │   ├───ecc-jsbn
+│       │   │   │   └───lib
+│       │   │   ├───ee-first
+│       │   │   ├───encodeurl
+│       │   │   ├───entities
+│       │   │   │   ├───lib
+│       │   │   │   ├───maps
+│       │   │   │   └───test
+│       │   │   ├───errno
+│       │   │   ├───es6-promise
+│       │   │   │   ├───dist
+│       │   │   │   └───lib
+│       │   │   │       └───es6-promise
+│       │   │   │           └───promise
+│       │   │   ├───es6-promisify
+│       │   │   │   └───dist
+│       │   │   ├───esprima
+│       │   │   │   ├───bin
+│       │   │   │   └───dist
+│       │   │   ├───extend
+│       │   │   ├───extract-zip
+│       │   │   │   └───node_modules
+│       │   │   │       ├───debug
+│       │   │   │       │   └───src
+│       │   │   │       └───ms
+│       │   │   ├───extsprintf
+│       │   │   │   └───lib
+│       │   │   ├───fast-deep-equal
+│       │   │   ├───fast-json-stable-stringify
+│       │   │   │   ├───benchmark
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   ├───fd-slicer
+│       │   │   │   └───test
+│       │   │   ├───forever-agent
+│       │   │   ├───form-data
+│       │   │   │   └───lib
+│       │   │   ├───formstream
+│       │   │   │   └───lib
+│       │   │   ├───fs-extra
+│       │   │   │   └───lib
+│       │   │   │       ├───copy
+│       │   │   │       ├───copy-sync
+│       │   │   │       ├───empty
+│       │   │   │       ├───ensure
+│       │   │   │       ├───fs
+│       │   │   │       ├───json
+│       │   │   │       ├───mkdirs
+│       │   │   │       ├───move
+│       │   │   │       ├───move-sync
+│       │   │   │       ├───output
+│       │   │   │       ├───path-exists
+│       │   │   │       ├───remove
+│       │   │   │       └───util
+│       │   │   ├───fs.realpath
+│       │   │   ├───getpass
+│       │   │   │   └───lib
+│       │   │   ├───glob
+│       │   │   ├───graceful-fs
+│       │   │   ├───har-schema
+│       │   │   │   └───lib
+│       │   │   ├───har-validator
+│       │   │   │   └───lib
+│       │   │   ├───htmlparser2
+│       │   │   │   └───lib
+│       │   │   ├───http-signature
+│       │   │   │   └───lib
+│       │   │   ├───https-proxy-agent
+│       │   │   │   └───node_modules
+│       │   │   │       └───debug
+│       │   │   │           ├───dist
+│       │   │   │           └───src
+│       │   │   ├───humanize-ms
+│       │   │   ├───iconv-lite
+│       │   │   │   ├───encodings
+│       │   │   │   │   └───tables
+│       │   │   │   └───lib
+│       │   │   ├───image-size
+│       │   │   │   ├───bin
+│       │   │   │   └───lib
+│       │   │   │       └───types
+│       │   │   ├───imagemagick-cli
+│       │   │   │   ├───.circleci
+│       │   │   │   ├───.nyc_output
+│       │   │   │   └───src
+│       │   │   ├───inflight
+│       │   │   ├───inherits
+│       │   │   ├───is-typedarray
+│       │   │   ├───isarray
+│       │   │   ├───isexe
+│       │   │   │   └───test
+│       │   │   ├───isstream
+│       │   │   ├───js-yaml
+│       │   │   │   ├───bin
+│       │   │   │   ├───dist
+│       │   │   │   └───lib
+│       │   │   │       └───js-yaml
+│       │   │   │           ├───schema
+│       │   │   │           └───type
+│       │   │   │               └───js
+│       │   │   ├───jsbn
+│       │   │   ├───json-schema
+│       │   │   │   ├───draft-00
+│       │   │   │   ├───draft-01
+│       │   │   │   ├───draft-02
+│       │   │   │   ├───draft-03
+│       │   │   │   │   └───examples
+│       │   │   │   ├───draft-04
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───json-schema-traverse
+│       │   │   │   └───spec
+│       │   │   │       └───fixtures
+│       │   │   ├───json-stringify-safe
+│       │   │   │   └───test
+│       │   │   ├───jsonfile
+│       │   │   ├───jsprim
+│       │   │   │   └───lib
+│       │   │   ├───less
+│       │   │   │   ├───.github
+│       │   │   │   ├───.vscode
+│       │   │   │   ├───bin
+│       │   │   │   ├───dist
+│       │   │   │   ├───lib
+│       │   │   │   │   ├───less
+│       │   │   │   │   │   ├───data
+│       │   │   │   │   │   ├───environment
+│       │   │   │   │   │   ├───functions
+│       │   │   │   │   │   ├───parser
+│       │   │   │   │   │   ├───tree
+│       │   │   │   │   │   └───visitors
+│       │   │   │   │   ├───less-browser
+│       │   │   │   │   ├───less-node
+│       │   │   │   │   └───source-map
+│       │   │   │   └───test
+│       │   │   │       ├───browser
+│       │   │   │       │   ├───css
+│       │   │   │       │   │   ├───global-vars
+│       │   │   │       │   │   ├───modify-vars
+│       │   │   │       │   │   ├───plugin
+│       │   │   │       │   │   ├───postProcessor
+│       │   │   │       │   │   ├───relative-urls
+│       │   │   │       │   │   ├───rewrite-urls
+│       │   │   │       │   │   ├───rootpath
+│       │   │   │       │   │   ├───rootpath-relative
+│       │   │   │       │   │   └───rootpath-rewrite-urls
+│       │   │   │       │   ├───less
+│       │   │   │       │   │   ├───console-errors
+│       │   │   │       │   │   ├───errors
+│       │   │   │       │   │   ├───global-vars
+│       │   │   │       │   │   ├───imports
+│       │   │   │       │   │   ├───modify-vars
+│       │   │   │       │   │   │   └───imports
+│       │   │   │       │   │   ├───nested-gradient-with-svg-gradient
+│       │   │   │       │   │   ├───plugin
+│       │   │   │       │   │   ├───postProcessor
+│       │   │   │       │   │   ├───relative-urls
+│       │   │   │       │   │   ├───rewrite-urls
+│       │   │   │       │   │   ├───rootpath
+│       │   │   │       │   │   ├───rootpath-relative
+│       │   │   │       │   │   └───rootpath-rewrite-urls
+│       │   │   │       │   └───vendor
+│       │   │   │       ├───css
+│       │   │   │       │   ├───3rd-party
+│       │   │   │       │   ├───compression
+│       │   │   │       │   ├───debug
+│       │   │   │       │   ├───filemanagerPlugin
+│       │   │   │       │   ├───globalVars
+│       │   │   │       │   ├───include-path
+│       │   │   │       │   ├───include-path-string
+│       │   │   │       │   ├───legacy
+│       │   │   │       │   ├───math
+│       │   │   │       │   │   ├───parens-division
+│       │   │   │       │   │   ├───strict
+│       │   │   │       │   │   └───strict-legacy
+│       │   │   │       │   ├───modifyVars
+│       │   │   │       │   ├───namespacing
+│       │   │   │       │   ├───no-strict-math
+│       │   │   │       │   ├───postProcessorPlugin
+│       │   │   │       │   ├───preProcessorPlugin
+│       │   │   │       │   ├───rewrite-urls-all
+│       │   │   │       │   ├───rewrite-urls-local
+│       │   │   │       │   ├───rootpath-rewrite-urls-all
+│       │   │   │       │   ├───rootpath-rewrite-urls-local
+│       │   │   │       │   ├───static-urls
+│       │   │   │       │   ├───strict-units
+│       │   │   │       │   ├───url-args
+│       │   │   │       │   └───visitorPlugin
+│       │   │   │       ├───data
+│       │   │   │       ├───import-module
+│       │   │   │       │   └───one
+│       │   │   │       │       └───two
+│       │   │   │       │           └───three
+│       │   │   │       ├───less
+│       │   │   │       │   ├───3rd-party
+│       │   │   │       │   ├───compression
+│       │   │   │       │   ├───debug
+│       │   │   │       │   │   └───import
+│       │   │   │       │   ├───errors
+│       │   │   │       │   │   ├───imports
+│       │   │   │       │   │   │   └───subfolder
+│       │   │   │       │   │   └───plugin
+│       │   │   │       │   ├───filemanagerPlugin
+│       │   │   │       │   ├───globalVars
+│       │   │   │       │   ├───import
+│       │   │   │       │   │   ├───deeper
+│       │   │   │       │   │   │   └───deeper-2
+│       │   │   │       │   │   └───imports
+│       │   │   │       │   ├───import-reference-issues
+│       │   │   │       │   ├───include-path
+│       │   │   │       │   ├───include-path-string
+│       │   │   │       │   ├───legacy
+│       │   │   │       │   ├───math
+│       │   │   │       │   │   ├───parens-division
+│       │   │   │       │   │   ├───strict
+│       │   │   │       │   │   └───strict-legacy
+│       │   │   │       │   ├───modifyVars
+│       │   │   │       │   ├───namespacing
+│       │   │   │       │   │   └───imports
+│       │   │   │       │   ├───nested-gradient-with-svg-gradient
+│       │   │   │       │   ├───no-js-errors
+│       │   │   │       │   ├───no-strict-math
+│       │   │   │       │   ├───plugin
+│       │   │   │       │   ├───postProcessorPlugin
+│       │   │   │       │   ├───preProcessorPlugin
+│       │   │   │       │   ├───rewrite-urls-all
+│       │   │   │       │   │   └───folder
+│       │   │   │       │   ├───rewrite-urls-local
+│       │   │   │       │   │   └───folder
+│       │   │   │       │   ├───root-registry
+│       │   │   │       │   ├───rootpath-rewrite-urls-all
+│       │   │   │       │   │   └───folder
+│       │   │   │       │   ├───rootpath-rewrite-urls-local
+│       │   │   │       │   │   └───folder
+│       │   │   │       │   ├───sourcemaps
+│       │   │   │       │   ├───sourcemaps-empty
+│       │   │   │       │   ├───static-urls
+│       │   │   │       │   ├───strict-units
+│       │   │   │       │   ├───url-args
+│       │   │   │       │   └───visitorPlugin
+│       │   │   │       ├───less-bom
+│       │   │   │       │   ├───3rd-party
+│       │   │   │       │   ├───compression
+│       │   │   │       │   ├───debug
+│       │   │   │       │   │   └───import
+│       │   │   │       │   ├───errors
+│       │   │   │       │   │   ├───imports
+│       │   │   │       │   │   │   └───subfolder
+│       │   │   │       │   │   └───plugin
+│       │   │   │       │   ├───filemanagerPlugin
+│       │   │   │       │   ├───globalVars
+│       │   │   │       │   ├───import
+│       │   │   │       │   │   ├───deeper
+│       │   │   │       │   │   │   └───deeper-2
+│       │   │   │       │   │   └───imports
+│       │   │   │       │   ├───import-reference-issues
+│       │   │   │       │   ├───include-path
+│       │   │   │       │   ├───include-path-string
+│       │   │   │       │   ├───legacy
+│       │   │   │       │   ├───math
+│       │   │   │       │   │   ├───parens-division
+│       │   │   │       │   │   ├───strict
+│       │   │   │       │   │   └───strict-legacy
+│       │   │   │       │   ├───modifyVars
+│       │   │   │       │   ├───namespacing
+│       │   │   │       │   │   └───imports
+│       │   │   │       │   ├───nested-gradient-with-svg-gradient
+│       │   │   │       │   ├───no-js-errors
+│       │   │   │       │   ├───no-strict-math
+│       │   │   │       │   ├───plugin
+│       │   │   │       │   ├───postProcessorPlugin
+│       │   │   │       │   ├───preProcessorPlugin
+│       │   │   │       │   ├───rewrite-urls-all
+│       │   │   │       │   │   └───folder
+│       │   │   │       │   ├───rewrite-urls-local
+│       │   │   │       │   │   └───folder
+│       │   │   │       │   ├───root-registry
+│       │   │   │       │   ├───rootpath-rewrite-urls-all
+│       │   │   │       │   │   └───folder
+│       │   │   │       │   ├───rootpath-rewrite-urls-local
+│       │   │   │       │   │   └───folder
+│       │   │   │       │   ├───sourcemaps
+│       │   │   │       │   ├───sourcemaps-empty
+│       │   │   │       │   ├───static-urls
+│       │   │   │       │   ├───strict-units
+│       │   │   │       │   ├───url-args
+│       │   │   │       │   └───visitorPlugin
+│       │   │   │       ├───plugins
+│       │   │   │       │   ├───filemanager
+│       │   │   │       │   ├───postprocess
+│       │   │   │       │   ├───preprocess
+│       │   │   │       │   └───visitor
+│       │   │   │       └───sourcemaps
+│       │   │   ├───lodash
+│       │   │   │   └───fp
+│       │   │   ├───mime
+│       │   │   │   └───src
+│       │   │   ├───mime-db
+│       │   │   ├───mime-types
+│       │   │   ├───minimatch
+│       │   │   ├───minimist
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   ├───mkdirp
+│       │   │   │   ├───bin
+│       │   │   │   ├───examples
+│       │   │   │   └───test
+│       │   │   ├───ms
+│       │   │   ├───node-fetch
+│       │   │   │   └───lib
+│       │   │   ├───nth-check
+│       │   │   ├───oauth-sign
+│       │   │   ├───once
+│       │   │   ├───os-name
+│       │   │   ├───osx-release
+│       │   │   │   └───node_modules
+│       │   │   │       └───minimist
+│       │   │   │           ├───example
+│       │   │   │           └───test
+│       │   │   ├───parse5
+│       │   │   │   └───lib
+│       │   │   │       ├───common
+│       │   │   │       ├───extensions
+│       │   │   │       │   ├───location_info
+│       │   │   │       │   └───position_tracking
+│       │   │   │       ├───parser
+│       │   │   │       ├───sax
+│       │   │   │       ├───serializer
+│       │   │   │       ├───tokenizer
+│       │   │   │       ├───tree_adapters
+│       │   │   │       └───utils
+│       │   │   ├───path-is-absolute
+│       │   │   ├───pause-stream
+│       │   │   │   └───test
+│       │   │   ├───pend
+│       │   │   ├───performance-now
+│       │   │   │   ├───lib
+│       │   │   │   ├───src
+│       │   │   │   └───test
+│       │   │   │       └───scripts
+│       │   │   ├───process-nextick-args
+│       │   │   ├───progress
+│       │   │   │   └───lib
+│       │   │   ├───promise
+│       │   │   │   ├───domains
+│       │   │   │   ├───lib
+│       │   │   │   ├───setimmediate
+│       │   │   │   └───src
+│       │   │   ├───proxy-from-env
+│       │   │   ├───prr
+│       │   │   ├───psl
+│       │   │   │   ├───data
+│       │   │   │   ├───dist
+│       │   │   │   └───scripts
+│       │   │   ├───punycode
+│       │   │   ├───puppeteer-core
+│       │   │   │   ├───lib
+│       │   │   │   ├───node6
+│       │   │   │   │   └───lib
+│       │   │   │   └───node_modules
+│       │   │   │       └───mime
+│       │   │   │           ├───.github
+│       │   │   │           ├───src
+│       │   │   │           └───types
+│       │   │   ├───qiniu
+│       │   │   │   ├───examples
+│       │   │   │   ├───node_modules
+│       │   │   │   │   └───mime
+│       │   │   │   │       ├───.github
+│       │   │   │   │       ├───src
+│       │   │   │   │       └───types
+│       │   │   │   └───qiniu
+│       │   │   │       ├───auth
+│       │   │   │       ├───rtc
+│       │   │   │       └───storage
+│       │   │   ├───qs
+│       │   │   │   ├───dist
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───readable-stream
+│       │   │   │   └───lib
+│       │   │   │       └───internal
+│       │   │   │           └───streams
+│       │   │   ├───request
+│       │   │   │   └───lib
+│       │   │   ├───rimraf
+│       │   │   ├───rw
+│       │   │   │   ├───lib
+│       │   │   │   │   └───rw
+│       │   │   │   └───test
+│       │   │   ├───safe-buffer
+│       │   │   ├───safer-buffer
+│       │   │   ├───semver
+│       │   │   │   └───bin
+│       │   │   ├───slash
+│       │   │   ├───source-map
+│       │   │   │   ├───dist
+│       │   │   │   └───lib
+│       │   │   ├───sprintf-js
+│       │   │   │   ├───demo
+│       │   │   │   ├───dist
+│       │   │   │   ├───src
+│       │   │   │   └───test
+│       │   │   ├───sshpk
+│       │   │   │   ├───bin
+│       │   │   │   ├───lib
+│       │   │   │   │   └───formats
+│       │   │   │   └───man
+│       │   │   │       └───man1
+│       │   │   ├───statuses
+│       │   │   ├───string_decoder
+│       │   │   │   └───lib
+│       │   │   ├───temp
+│       │   │   │   └───lib
+│       │   │   ├───through
+│       │   │   │   └───test
+│       │   │   ├───topojson-client
+│       │   │   │   ├───bin
+│       │   │   │   ├───dist
+│       │   │   │   └───src
+│       │   │   ├───tough-cookie
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       └───punycode
+│       │   │   ├───tunnel-agent
+│       │   │   ├───tweetnacl
+│       │   │   ├───twemoji
+│       │   │   │   ├───dist
+│       │   │   │   └───node_modules
+│       │   │   │       └───jsonfile
+│       │   │   ├───twemoji-parser
+│       │   │   │   └───dist
+│       │   │   │       └───lib
+│       │   │   ├───typedarray
+│       │   │   │   ├───example
+│       │   │   │   └───test
+│       │   │   │       └───server
+│       │   │   ├───universalify
+│       │   │   ├───unorm
+│       │   │   │   └───lib
+│       │   │   ├───uri-js
+│       │   │   │   ├───dist
+│       │   │   │   │   ├───es5
+│       │   │   │   │   └───esnext
+│       │   │   │   │       └───schemes
+│       │   │   │   ├───src
+│       │   │   │   │   └───schemes
+│       │   │   │   └───tests
+│       │   │   ├───urllib
+│       │   │   │   ├───lib
+│       │   │   │   └───node_modules
+│       │   │   │       ├───debug
+│       │   │   │       │   └───src
+│       │   │   │       └───ms
+│       │   │   ├───userhome
+│       │   │   ├───uslug
+│       │   │   │   ├───lib
+│       │   │   │   └───test
+│       │   │   ├───util-deprecate
+│       │   │   ├───utility
+│       │   │   │   ├───benchmark
+│       │   │   │   └───lib
+│       │   │   ├───uuid
+│       │   │   │   ├───bin
+│       │   │   │   └───lib
+│       │   │   ├───vega-loader
+│       │   │   │   ├───build
+│       │   │   │   └───src
+│       │   │   │       └───formats
+│       │   │   ├───vega-util
+│       │   │   │   ├───build
+│       │   │   │   └───src
+│       │   │   ├───verror
+│       │   │   │   └───lib
+│       │   │   ├───which
+│       │   │   │   └───bin
+│       │   │   ├───win-release
+│       │   │   ├───wrappy
+│       │   │   ├───ws
+│       │   │   │   └───lib
+│       │   │   ├───yamljs
+│       │   │   │   ├───bin
+│       │   │   │   ├───cli
+│       │   │   │   ├───demo
+│       │   │   │   ├───dist
+│       │   │   │   ├───lib
+│       │   │   │   │   └───Exception
+│       │   │   │   ├───src
+│       │   │   │   │   └───Exception
+│       │   │   │   └───test
+│       │   │   │       ├───lib
+│       │   │   │       │   └───jasmine-2.0.0
+│       │   │   │       └───spec
+│       │   │   └───yauzl
+│       │   └───out
+│       │       └───src
+│       ├───tinkertrain.theme-panda-1.3.0
+│       │   ├───.github
+│       │   ├───.vscode
+│       │   ├───assets
+│       │   ├───dist
+│       │   └───themes
+│       ├───vscode-icons-team.vscode-icons-9.4.0
+│       │   ├───dist
+│       │   │   └───src
+│       │   ├───icons
+│       │   └───images
+│       ├───xabikos.javascriptsnippets-1.7.2
+│       │   ├───images
+│       │   └───snippets
+│       ├───zhuangtongfa.material-theme-2.27.2
+│       │   ├───src
+│       │   └───themes
+│       └───zignd.html-css-class-completion-1.19.0
+│           ├───dist
+│           ├───images
+│           ├───node_modules
+│           │   ├───ajv
+│           │   │   ├───dist
+│           │   │   ├───lib
+│           │   │   │   ├───compile
+│           │   │   │   ├───dot
+│           │   │   │   ├───dotjs
+│           │   │   │   └───refs
+│           │   │   └───scripts
+│           │   ├───asn1
+│           │   │   └───lib
+│           │   │       └───ber
+│           │   ├───assert-plus
+│           │   ├───asynckit
+│           │   │   └───lib
+│           │   ├───atob
+│           │   │   └───bin
+│           │   ├───aws-sign2
+│           │   ├───aws4
+│           │   ├───bcrypt-pbkdf
+│           │   ├───bluebird
+│           │   │   └───js
+│           │   │       ├───browser
+│           │   │       └───release
+│           │   ├───caseless
+│           │   ├───combined-stream
+│           │   │   └───lib
+│           │   ├───core-util-is
+│           │   │   └───lib
+│           │   ├───css
+│           │   │   └───lib
+│           │   │       ├───parse
+│           │   │       └───stringify
+│           │   ├───dashdash
+│           │   │   ├───etc
+│           │   │   └───lib
+│           │   ├───decode-uri-component
+│           │   ├───delayed-stream
+│           │   │   └───lib
+│           │   ├───dom-serializer
+│           │   │   └───node_modules
+│           │   │       └───domelementtype
+│           │   ├───domelementtype
+│           │   ├───domhandler
+│           │   │   ├───lib
+│           │   │   └───test
+│           │   │       └───cases
+│           │   ├───domutils
+│           │   │   ├───lib
+│           │   │   └───test
+│           │   │       └───tests
+│           │   ├───ecc-jsbn
+│           │   │   └───lib
+│           │   ├───entities
+│           │   │   ├───lib
+│           │   │   ├───maps
+│           │   │   └───test
+│           │   ├───extend
+│           │   ├───extsprintf
+│           │   │   └───lib
+│           │   ├───fast-deep-equal
+│           │   ├───fast-json-stable-stringify
+│           │   │   ├───benchmark
+│           │   │   ├───example
+│           │   │   └───test
+│           │   ├───forever-agent
+│           │   ├───form-data
+│           │   │   └───lib
+│           │   ├───getpass
+│           │   │   └───lib
+│           │   ├───har-schema
+│           │   │   └───lib
+│           │   ├───har-validator
+│           │   │   └───lib
+│           │   ├───htmlparser2
+│           │   │   └───lib
+│           │   ├───http-signature
+│           │   │   └───lib
+│           │   ├───inherits
+│           │   ├───is-typedarray
+│           │   ├───isarray
+│           │   ├───isstream
+│           │   ├───jsbn
+│           │   ├───json-schema
+│           │   │   ├───draft-00
+│           │   │   ├───draft-01
+│           │   │   ├───draft-02
+│           │   │   ├───draft-03
+│           │   │   │   └───examples
+│           │   │   ├───draft-04
+│           │   │   ├───lib
+│           │   │   └───test
+│           │   ├───json-schema-traverse
+│           │   │   └───spec
+│           │   │       └───fixtures
+│           │   ├───json-stringify-safe
+│           │   │   └───test
+│           │   ├───jsprim
+│           │   │   └───lib
+│           │   ├───lodash
+│           │   │   └───fp
+│           │   ├───mime-db
+│           │   ├───mime-types
+│           │   ├───oauth-sign
+│           │   ├───performance-now
+│           │   │   ├───lib
+│           │   │   ├───src
+│           │   │   └───test
+│           │   │       └───scripts
+│           │   ├───process-nextick-args
+│           │   ├───psl
+│           │   │   ├───data
+│           │   │   └───dist
+│           │   ├───punycode
+│           │   ├───qs
+│           │   │   ├───dist
+│           │   │   ├───lib
+│           │   │   └───test
+│           │   ├───readable-stream
+│           │   │   ├───doc
+│           │   │   │   └───wg-meetings
+│           │   │   └───lib
+│           │   │       └───internal
+│           │   │           └───streams
+│           │   ├───request
+│           │   │   ├───lib
+│           │   │   └───node_modules
+│           │   │       ├───safe-buffer
+│           │   │       └───tough-cookie
+│           │   │           └───lib
+│           │   ├───request-promise
+│           │   │   └───lib
+│           │   ├───request-promise-core
+│           │   │   ├───configure
+│           │   │   └───lib
+│           │   ├───resolve-url
+│           │   │   └───test
+│           │   ├───safe-buffer
+│           │   ├───safer-buffer
+│           │   ├───source-map
+│           │   │   ├───dist
+│           │   │   └───lib
+│           │   ├───source-map-resolve
+│           │   │   ├───lib
+│           │   │   └───test
+│           │   ├───source-map-support
+│           │   │   └───node_modules
+│           │   │       └───source-map
+│           │   │           ├───dist
+│           │   │           └───lib
+│           │   ├───source-map-url
+│           │   │   └───test
+│           │   ├───sshpk
+│           │   │   ├───bin
+│           │   │   ├───lib
+│           │   │   │   └───formats
+│           │   │   └───man
+│           │   │       └───man1
+│           │   ├───stealthy-require
+│           │   │   └───lib
+│           │   ├───string_decoder
+│           │   │   └───lib
+│           │   ├───tough-cookie
+│           │   │   └───lib
+│           │   ├───tunnel-agent
+│           │   ├───tweetnacl
+│           │   ├───uri-js
+│           │   │   ├───dist
+│           │   │   │   ├───es5
+│           │   │   │   └───esnext
+│           │   │   │       └───schemes
+│           │   │   ├───node_modules
+│           │   │   │   └───punycode
+│           │   │   ├───src
+│           │   │   │   └───schemes
+│           │   │   └───tests
+│           │   ├───urix
+│           │   │   └───test
+│           │   ├───util-deprecate
+│           │   ├───uuid
+│           │   │   ├───bin
+│           │   │   └───lib
+│           │   └───verror
+│           │       └───lib
+│           └───out
+│               └───src
+│                   ├───common
+│                   └───parse-engines
+│                       ├───common
+│                       └───types
+├───3D Objects
+├───blacksecret4@gmail.com Creative Cloud Files
+├───Bootstrap Studio Backups
+├───Contacts
+├───Creative Cloud Files
+├───Desktop
+│   └───Practice
+│       ├───landing page
+│       │   └───img
+│       └───saffron
+├───Documents
+│   ├───Adobe
+│   │   ├───Adobe Media Encoder
+│   │   │   └───12.0
+│   │   ├───After Effects CC 2018
+│   │   │   ├───User Libraries
+│   │   │   ├───User Presets
+│   │   │   └───Video Libraries
+│   │   ├───dynamiclinkmediaserver
+│   │   │   └───12.1
+│   │   └───Premiere Pro
+│   │       └───12.0
+│   │           └───Profile-user
+│   │               ├───ArchivedLayouts
+│   │               ├───Layouts
+│   │               ├───Settings
+│   │               │   ├───EssentialSound
+│   │               │   │   └───Default
+│   │               │   │       ├───ambience
+│   │               │   │       ├───dialog
+│   │               │   │       ├───generic
+│   │               │   │       ├───music
+│   │               │   │       └───sfx
+│   │               │   ├───Overlay Presets
+│   │               │   ├───Source Patcher Presets
+│   │               │   ├───Timecode Presets
+│   │               │   └───Track Height Presets
+│   │               └───Win
+│   ├───Camera
+│   ├───GitHub
+│   │   └───praxis-academy
+│   │       ├───kemampuan-dasar-1
+│   │       │   ├───kasus
+│   │       │   └───latihan
+│   │       └───kemampuan-dasar-2
+│   ├───JoyToKey
+│   └───My Cheat Tables
+├───Downloads
+│   ├───Compressed
+│   │   ├───eva-icons
+│   │   │   ├───fill
+│   │   │   │   ├───png
+│   │   │   │   │   └───128
+│   │   │   │   └───svg
+│   │   │   └───outline
+│   │   │       ├───png
+│   │   │       │   └───128
+│   │   │       └───svg
+│   │   ├───MagicaVoxel-0.99.4-alpha-win64
+│   │   │   ├───cache
+│   │   │   ├───config
+│   │   │   │   ├───font
+│   │   │   │   └───ui
+│   │   │   ├───export
+│   │   │   ├───palette
+│   │   │   ├───shader
+│   │   │   └───vox
+│   │   │       └───chr
+│   │   ├───mkvtoolnix
+│   │   │   ├───cache
+│   │   │   │   └───fileIdentifier
+│   │   │   ├───data
+│   │   │   │   └───sounds
+│   │   │   ├───doc
+│   │   │   │   ├───ca
+│   │   │   │   ├───de
+│   │   │   │   ├───en
+│   │   │   │   ├───es
+│   │   │   │   ├───ja
+│   │   │   │   ├───ko
+│   │   │   │   ├───licenses
+│   │   │   │   ├───nl
+│   │   │   │   ├───pl
+│   │   │   │   ├───uk
+│   │   │   │   └───zh_CN
+│   │   │   ├───examples
+│   │   │   ├───jobQueue
+│   │   │   ├───locale
+│   │   │   │   ├───ca
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───cs
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───de
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───es
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───eu
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───fr
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───it
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───ja
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───ko
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───libqt
+│   │   │   │   ├───lt
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───nl
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───pl
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───pt
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───pt_BR
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───ro
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───ru
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───sr_RS
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───sr_RS@latin
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───sv
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───tr
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───uk
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   ├───zh_CN
+│   │   │   │   │   └───LC_MESSAGES
+│   │   │   │   └───zh_TW
+│   │   │   │       └───LC_MESSAGES
+│   │   │   └───share
+│   │   │       └───misc
+│   │   └───zondicons
+│   ├───Documents
+│   ├───FireShot
+│   ├───Music
+│   ├───Programs
+│   └───Video
+├───Favorites
+│   └───Links
+├───Links
+├───Music
+├───Nox_share
+│   ├───AppShare
+│   ├───ImageShare
+│   │   └───Screenshots
+│   └───OtherShare
+├───OneDrive
+├───Pictures
+│   ├───Camera Roll
+│   ├───Lightroom
+│   │   ├───Lightroom Catalog Helper.lrdata
+│   │   └───Lightroom Catalog Previews.lrdata
+│   │       ├───0
+│   │       │   └───0DBC
+│   │       ├───4
+│   │       │   └───4EBA
+│   │       └───5
+│   │           └───5804
+│   └───Saved Pictures
+├───Saved Games
+├───Searches
+├───Videos
+│   ├───Captures
+│   └───Radeon ReLive
+└───vmlogs
+
+C:\Users\user>cls
+
+C:\Users\user>taskkill /pid 7072
+ERROR: The process with PID 7072 could not be terminated.
+Reason: Access is denied.
+
+C:\Users\user>tasklist
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        140 K
+Registry                       120 Services                   0     64.156 K
+smss.exe                       384 Services                   0      1.076 K
+csrss.exe                      600 Services                   0      4.908 K
+wininit.exe                    728 Services                   0      6.184 K
+csrss.exe                      736 Console                    1      5.344 K
+winlogon.exe                   804 Console                    1     11.500 K
+services.exe                   872 Services                   0      8.576 K
+lsass.exe                      880 Services                   0     16.048 K
+svchost.exe                   1016 Services                   0      3.812 K
+svchost.exe                     88 Services                   0     26.924 K
+fontdrvhost.exe                528 Services                   0      2.360 K
+fontdrvhost.exe                540 Console                    1     11.744 K
+svchost.exe                    516 Services                   0     15.020 K
+svchost.exe                   1068 Services                   0      7.892 K
+dwm.exe                       1128 Console                    1     66.788 K
+svchost.exe                   1300 Services                   0     11.796 K
+svchost.exe                   1308 Services                   0      9.848 K
+svchost.exe                   1356 Services                   0      5.640 K
+svchost.exe                   1376 Services                   0     14.900 K
+svchost.exe                   1412 Services                   0     11.464 K
+svchost.exe                   1480 Services                   0      5.656 K
+svchost.exe                   1636 Services                   0      9.376 K
+svchost.exe                   1680 Services                   0     13.672 K
+svchost.exe                   1748 Services                   0     10.516 K
+svchost.exe                   1792 Services                   0      6.220 K
+svchost.exe                   1820 Services                   0      7.172 K
+QMEmulatorService.exe         1868 Services                   0      7.924 K
+svchost.exe                   1948 Services                   0     11.176 K
+svchost.exe                   1968 Services                   0      7.888 K
+svchost.exe                   1996 Services                   0      6.416 K
+svchost.exe                   2076 Services                   0      8.000 K
+svchost.exe                   2184 Services                   0      7.780 K
+atiesrxx.exe                  2252 Services                   0      5.580 K
+svchost.exe                   2332 Services                   0      5.580 K
+svchost.exe                   2340 Services                   0     13.004 K
+svchost.exe                   2348 Services                   0      6.668 K
+atieclxx.exe                  2408 Console                    1     10.068 K
+svchost.exe                   2444 Services                   0      7.596 K
+Memory Compression            2468 Services                   0    304.016 K
+svchost.exe                   2504 Services                   0      7.308 K
+svchost.exe                   2512 Services                   0      7.428 K
+sihost.exe                    2764 Console                    1     28.020 K
+svchost.exe                   2776 Console                    1     17.928 K
+svchost.exe                   2812 Services                   0     13.660 K
+svchost.exe                   2928 Console                    1     30.560 K
+svchost.exe                   2936 Services                   0     14.772 K
+svchost.exe                   2992 Services                   0      6.080 K
+svchost.exe                   3000 Services                   0      8.524 K
+svchost.exe                   3052 Services                   0     15.188 K
+svchost.exe                   2740 Services                   0     13.888 K
+taskhostw.exe                 1888 Console                    1     16.368 K
+svchost.exe                   3160 Services                   0     14.712 K
+svchost.exe                   3228 Services                   0     15.716 K
+spoolsv.exe                   3436 Services                   0     11.200 K
+svchost.exe                   3516 Services                   0      7.232 K
+svchost.exe                   3600 Services                   0      7.344 K
+ctfmon.exe                    3632 Console                    1     16.216 K
+svchost.exe                   3800 Services                   0     21.764 K
+svchost.exe                   3824 Services                   0     25.740 K
+svchost.exe                   3832 Services                   0     12.836 K
+svchost.exe                   3840 Services                   0     34.456 K
+svchost.exe                   3868 Services                   0      5.964 K
+svchost.exe                   3888 Services                   0      5.176 K
+svchost.exe                   3896 Services                   0      8.588 K
+svchost.exe                   3904 Services                   0     19.688 K
+PnkBstrA.exe                  3948 Services                   0      6.140 K
+PnkBstrB.exe                  3956 Services                   0      6.248 K
+KMS-R@1n.exe                  3972 Services                   0      2.756 K
+RtkAudUService64.exe          4056 Services                   0      8.832 K
+AdobeUpdateService.exe        4076 Services                   0      6.732 K
+MsMpEng.exe                   4100 Services                   0    348.356 K
+AGMService.exe                4196 Services                   0      9.700 K
+AGSService.exe                4208 Services                   0     10.452 K
+svchost.exe                   4260 Services                   0      4.952 K
+svchost.exe                   4308 Services                   0     11.420 K
+svchost.exe                   4448 Services                   0      8.404 K
+svchost.exe                   4460 Services                   0     15.184 K
+svchost.exe                   4496 Services                   0      8.660 K
+svchost.exe                   4576 Services                   0     11.128 K
+unsecapp.exe                  3812 Services                   0      6.352 K
+svchost.exe                   5168 Services                   0     10.952 K
+explorer.exe                  5656 Console                    1    160.816 K
+svchost.exe                   5888 Services                   0     17.368 K
+svchost.exe                   5212 Console                    1     21.492 K
+NisSrv.exe                    5392 Services                   0     11.132 K
+StartMenuExperienceHost.e     6488 Console                    1     79.072 K
+RuntimeBroker.exe             6668 Console                    1     22.244 K
+SearchUI.exe                  6784 Console                    1     76.088 K
+SearchIndexer.exe             6856 Services                   0     48.128 K
+RuntimeBroker.exe             6972 Console                    1     18.816 K
+YourPhone.exe                 7260 Console                    1        712 K
+schtasks.exe                  7388 Console                    1      1.092 K
+conhost.exe                   7396 Console                    1      1.192 K
+RuntimeBroker.exe             7468 Console                    1     16.960 K
+RuntimeBroker.exe             7856 Console                    1      7.144 K
+SecurityHealthSystray.exe     3660 Console                    1      8.008 K
+SecurityHealthService.exe     7304 Services                   0     12.936 K
+RtkAudUService64.exe          7464 Console                    1     13.280 K
+IDMan.exe                     7668 Console                    1     25.300 K
+IEMonitor.exe                 7756 Console                    1      8.320 K
+CCXProcess.exe                7768 Console                    1      2.660 K
+node.exe                      7836 Console                    1     44.688 K
+conhost.exe                   7828 Console                    1      5.492 K
+RadeonSettings.exe            6028 Console                    1      8.196 K
+svchost.exe                   1120 Services                   0      8.800 K
+AMDRSServ.exe                 6256 Console                    1        164 K
+svchost.exe                   7644 Services                   0      9.888 K
+AdobeIPCBroker.exe            7204 Console                    1      9.724 K
+dllhost.exe                   2092 Console                    1     11.672 K
+ApplicationFrameHost.exe      4276 Console                    1     39.868 K
+WinStore.App.exe              5640 Console                    1        768 K
+RuntimeBroker.exe             1400 Console                    1     22.460 K
+svchost.exe                   8212 Services                   0     20.536 K
+SystemSettings.exe            8640 Console                    1        188 K
+svchost.exe                   8900 Services                   0     10.500 K
+MicrosoftEdge.exe             1964 Console                    1      8.500 K
+browser_broker.exe            2416 Console                    1      7.476 K
+RuntimeBroker.exe             8368 Console                    1      6.844 K
+MicrosoftEdgeCP.exe           3528 Console                    1     21.732 K
+MicrosoftEdgeSH.exe           3980 Console                    1      8.836 K
+WmiPrvSE.exe                  8484 Services                   0     12.532 K
+svchost.exe                   7876 Services                   0     17.868 K
+AdobeNotificationClient.e     4536 Console                    1      1.816 K
+RuntimeBroker.exe             8804 Console                    1     11.464 K
+svchost.exe                   7872 Console                    1     12.600 K
+SgrmBroker.exe                6716 Services                   0      5.896 K
+svchost.exe                   5396 Services                   0     14.552 K
+svchost.exe                   8348 Services                   0      8.660 K
+ShellExperienceHost.exe       2012 Console                    1     40.464 K
+AIMP.exe                      2244 Console                    1     14.052 K
+svchost.exe                   6000 Services                   0      6.780 K
+FoxitReader.exe               2608 Console                    1     74.228 K
+FoxitReaderConnectedPDFSe     4780 Console                    1     13.192 K
+conhost.exe                   1616 Console                    1      6.972 K
+dasHost.exe                   9796 Services                   0      4.276 K
+LockApp.exe                   9560 Console                    1     37.224 K
+RuntimeBroker.exe             8208 Console                    1     26.324 K
+svchost.exe                   7968 Services                   0     10.252 K
+Microsoft.Photos.exe          9552 Console                    1     54.904 K
+svchost.exe                   8296 Services                   0     23.560 K
+AppMarket.exe                 7072 Console                    1     73.616 K
+TBSWebRenderer.exe            1384 Console                    1    102.588 K
+RuntimeBroker.exe             1940 Console                    1     29.272 K
+svchost.exe                  10964 Services                   0      8.840 K
+audiodg.exe                   6384 Services                   0     17.544 K
+RtkUWP.exe                   19604 Console                    1     27.360 K
+RuntimeBroker.exe            19760 Console                    1      6.304 K
+svchost.exe                  23864 Services                   0      4.900 K
+WmiPrvSE.exe                 16596 Services                   0     14.968 K
+chrome.exe                   22112 Console                    1    152.880 K
+chrome.exe                   18824 Console                    1      5.896 K
+chrome.exe                   23968 Console                    1      7.396 K
+chrome.exe                   22248 Console                    1    313.740 K
+chrome.exe                   22116 Console                    1     30.116 K
+chrome.exe                   21232 Console                    1     76.028 K
+chrome.exe                   17964 Console                    1    115.904 K
+chrome.exe                   18000 Console                    1     60.036 K
+chrome.exe                   23172 Console                    1     51.800 K
+chrome.exe                   19176 Console                    1     32.088 K
+chrome.exe                   20044 Console                    1     27.468 K
+chrome.exe                   22096 Console                    1     43.492 K
+chrome.exe                   15992 Console                    1     31.012 K
+dllhost.exe                  25280 Console                    1      6.328 K
+chrome.exe                   13784 Console                    1     26.468 K
+chrome.exe                   23772 Console                    1     86.028 K
+chrome.exe                   18804 Console                    1     76.288 K
+chrome.exe                   10424 Console                    1     13.724 K
+CompPkgSrv.exe               20876 Console                    1      7.280 K
+chrome.exe                   19868 Console                    1    185.768 K
+chrome.exe                   14588 Console                    1     84.980 K
+WindowsInternal.Composabl    18300 Console                    1     41.816 K
+chrome.exe                   22256 Console                    1     85.356 K
+GitHubDesktop.exe            21828 Console                    1     69.140 K
+GitHubDesktop.exe            18548 Console                    1     80.108 K
+GitHubDesktop.exe            25152 Console                    1     85.908 K
+svchost.exe                  25232 Services                   0      5.724 K
+chrome.exe                   23816 Console                    1     46.472 K
+chrome.exe                   22104 Console                    1     90.744 K
+chrome.exe                   23192 Console                    1     73.208 K
+notepad.exe                  25572 Console                    1     17.300 K
+cmd.exe                      24736 Console                    1     13.164 K
+conhost.exe                  23252 Console                    1     19.172 K
+vds.exe                      23532 Services                   0     11.820 K
+cmd.exe                      25328 Console                    1      4.204 K
+chrome.exe                   24664 Console                    1     20.840 K
+SearchProtocolHost.exe       17500 Console                    1      7.696 K
+Taskmgr.exe                  11036 Console                    1     56.376 K
+WmiPrvSE.exe                 24340 Services                   0      7.688 K
+sppsvc.exe                   23932 Services                   0     18.312 K
+SppExtComObj.Exe             19240 Services                   0      9.648 K
+tasklist.exe                 14680 Console                    1      8.320 K
+
+C:\Users\user>time
+The current time is: 22:04:18,42
+
+C:\Users\user>mkdir 1
+
+C:\Users\user>ren 1 2
+
+C:\Users\user>rmdir 2
+
+<-- 10 -->
+
+C:\Users\user>move 1 2
+        1 dir(s) moved.
+
+C:\Users\user>erase 1.txt 2.txt
+
+C:\Users\user>diskpart
+
+C:\Users\user>dir
+ Volume in drive C has no label.
+ Volume Serial Number is BEDE-AFB3
+
+ Directory of C:\Users\user
+
+07/10/2019  22:13    <DIR>          .
+07/10/2019  22:13    <DIR>          ..
+06/10/2019  20:50    <DIR>          .android
+06/10/2019  20:50    <DIR>          .BigNox
+07/10/2019  20:51               173 .gitconfig
+13/06/2019  06:09    <DIR>          .thumbnails
+26/06/2019  20:08    <DIR>          .vscode
+04/10/2019  23:45    <DIR>          3D Objects
+13/06/2019  04:38             1.663 AMDRM_Install.log
+13/06/2019  04:38         1.888.712 AMD_RyzenMaster.log
+10/09/2019  09:38    <DIR>          blacksecret4@gmail.com Creative Cloud Files
+18/09/2019  23:08    <DIR>          Bootstrap Studio Backups
+04/10/2019  23:45    <DIR>          Contacts
+05/10/2019  10:00    <DIR>          Creative Cloud Files
+06/10/2019  21:06               297 d4ac4633ebd6440fa397b84f1bc94a3c.7z
+07/10/2019  20:49    <DIR>          Desktop
+07/10/2019  21:38    <DIR>          Documents
+04/10/2019  23:45    <DIR>          Downloads
+04/10/2019  23:45    <DIR>          Favorites
+17/06/2019  17:35                66 inittk.ini
+17/06/2019  17:35                41 inst.ini
+04/10/2019  23:45    <DIR>          Links
+04/10/2019  23:45    <DIR>          Music
+19/08/2019  23:15    <DIR>          Nox_share
+17/06/2019  17:35                45 nuuid.ini
+13/06/2019  05:52    <DIR>          OneDrive
+04/10/2019  23:45    <DIR>          Pictures
+04/10/2019  23:45    <DIR>          Saved Games
+04/10/2019  23:45    <DIR>          Searches
+17/06/2019  17:35                53 useruid.ini
+05/10/2019  09:20    <DIR>          Videos
+06/10/2019  20:50    <DIR>          vmlogs
+               8 File(s)      1.891.050 bytes
+              24 Dir(s)  46.660.849.664 bytes free
+
+C:\Users\user>date
+The current date is: 07/10/2019
+
+C:\Users\user>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::61b8:8f18:8acb:5f23%6
+   IPv4 Address. . . . . . . . . . . : 192.168.33.135
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.22.131
+
+C:\Users\user>cd links
+
+C:\Users\user\Links>cd ..
+
+C:\Users\user>powercfg -h off
+
+C:\Users\user>ping -t www.google.co.id
+
+Pinging www.google.co.id [216.239.38.120] with 32 bytes of data:
+Reply from 216.239.38.120: bytes=32 time=33ms TTL=52
+Reply from 216.239.38.120: bytes=32 time=34ms TTL=52
+Reply from 216.239.38.120: bytes=32 time=45ms TTL=52
+Reply from 216.239.38.120: bytes=32 time=435ms TTL=52
+Reply from 216.239.38.120: bytes=32 time=34ms TTL=52
+Reply from 216.239.38.120: bytes=32 time=288ms TTL=52
+Reply from 216.239.38.120: bytes=32 time=33ms TTL=52
+
+Ping statistics for 216.239.38.120:
+    Packets: Sent = 7, Received = 7, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 33ms, Maximum = 435ms, Average = 128ms
