@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+    let angka1 = prompt("masukkan angka pertama", 0);
+    let angka2 = prompt("masukkan angka kedua", 0);
+    let angka3 = prompt("masukkan angka tiga", 0);
+
+    if (angka1 > angka2 && angka1 > angka3 && angka2 > angka3) {
+        document.write(angka1, angka2, angka3);
+    }
+    else if (angka1 > angka2 && angka1 > angka3 && angka2 < angka3) {
+        document.write(angka1, angka3, angka2);
+    }
+    else if (angka1 < angka2 && angka1 < angka3 && angka2 > angka3) {
+        document.write(angka2, angka3, angka1);
+    }
+    else if (angka1 < angka2 && angka1 > angka3 && angka2 > angka3) {
+        document.write(angka2, angka1, angka3);
+    }
+    else if ((angka1 < angka2 && angka1 < angka3 && angka2 < angka3)) {
+        document.write(angka3, angka2, angka1);
+    }
+    else if ((angka1 > angka2 && angka1 < angka3 && angka2 < angka3)) {
+        document.write(angka3, angka1, angka2);
+    }
+</script>
+</html>
