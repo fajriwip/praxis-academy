@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset>
+        <legend>celsius to farenheit</legend>
+        <label for="">celsius</label>
+        <input type="text" name="" id="celsius"><br>
+        <button onclick="celsiusToFahrenheit()">convert</button>
+        <p id="converter_c"></p>
+    </fieldset>
+
+    <fieldset>
+        <legend>farenheit to celsius</legend>
+        <label for="">farenheit</label>
+        <input type="text" name="" id="farenheit"><br>
+        <button onclick="fahrenheitToCelsius()">convert</button>
+        <p id="converter_f"></p>
+    </fieldset>
+</body>
+<script>
+    function celsiusToFahrenheit(){
+        let celsius = document.getElementById("celsius").value;
+        let hasil = (celsius * 9/5) + 32;
+        document.getElementById("converter_c").innerHTML = hasil;
+    }
+
+    function fahrenheitToCelsius(){
+        let farenheit = document.getElementById("farenheit").value;
+        let hasil = (farenheit - 32) * 5/9;
+        document.getElementById("converter_f").innerHTML = hasil;
+    }
+</script>
+</html>
