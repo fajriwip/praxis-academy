@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+    let jmlAnak = prompt("berapa anak yang anda inginkan?");
+    let nmPasangan = prompt("siapa nama pasangan anda?");
+    let lokasi = prompt("dimana anda ingin tinggal?");
+    let pekerjaan = prompt("apa pekerjaan anda?");
+    function tellFortune(){
+        let tell = "you will be a " + pekerjaan + " in " + lokasi + ", and married to " + nmPasangan + " with " + jmlAnak + " kids.";
+        document.write(tell);
+
+        if(jmlAnak > 5){
+            document.write("<br>" + jmlAnak + " kids???? gokieeellll");
+        }
+    }
+    tellFortune(jmlAnak, nmPasangan, lokasi, pekerjaan);
+
+</script>
+</html>
