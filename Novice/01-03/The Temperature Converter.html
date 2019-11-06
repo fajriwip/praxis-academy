@@ -27,13 +27,13 @@
     function celsiusToFahrenheit(){
         let celsius = document.getElementById("celsius").value;
         let hasil = (celsius * 9/5) + 32;
-        document.getElementById("converter_c").innerHTML = hasil;
+        document.getElementById("converter_c").innerHTML = hasil + "°F";
     }
 
     function fahrenheitToCelsius(){
         let farenheit = document.getElementById("farenheit").value;
         let hasil = (farenheit - 32) * 5/9;
-        document.getElementById("converter_f").innerHTML = hasil;
+        document.getElementById("converter_f").innerHTML = hasil + "°C";
     }
 </script>
 </html>
