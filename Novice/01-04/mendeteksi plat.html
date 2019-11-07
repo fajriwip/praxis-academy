@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+    let plat = /\D{1,2}\s\d{1,4}\s\D{2,3}/i;
+    let input = prompt("masukkan nomor plat anda");
+    let result = plat.exec(input);
+
+    if(input == result){
+        alert("selamat nomor plat " +input+ " anda telah terdaftar");
+    } else {
+        alert("plat nomor anda tidak terdaftar");
+    }
+</script>
+</html>
