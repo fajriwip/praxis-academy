@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <p id="counter"></p>
+
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>ENG</th>
+        </tr>
+        <tr>
+            <td id="indo"></td>
+            <td id="eng"></td>
+        </tr>
+    </table>
+</body>
+<script>
+    var app = new function(){
+        this.el = document.getElementById("ID");
+
+        this.id = ['what', 'do', 'you', 'mean'];
+
+        this.Count = function(data){
+            var el = document.getElementById("counter");
+            
+            if(data > 1){
+                el.innerHTML = "ada " + data + " data dalam kamus";
+            } else {
+                el.innerHTML = "tidak ada data dalam kamus";
+            }
+        };
+
+        this.fetchAll = function(){
+            var data = '';
+
+            if(this.id.length > 0){
+                for(i = 0; i < this.id.length; i++) {
+                    data += "<tr>";
+                    data += "<td>" + this.id[i] + "</td>";
+                    data += "</tr>";
+                }
+            }
+            this.Count(this.id.length);
+            return this.el.innerHTML = data;
+        }
+    };
+</script>
+</html>
