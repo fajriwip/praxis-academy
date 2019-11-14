@@ -4,9 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <style type="text/css" media="screen">
+        #spoiler {
+            display: none;
+        }
+    </style>
     <title>Document</title>
 </head>
 <body>
+    <form action="javascript:void(0);" method="POST" accept-charset="utf-8" onsubmit="app.add()">
+        <input type="text" id="add_word" placeholder="tambahkan kata baru">
+        <button>Tambahkan</button>
+    </form>
+
+    <div id="spoiler" role="aria-hidden">
+        <form action="javascript:void(0);" method="POST" id="save_edit">
+            <input type="text" id="edit_kata">
+            <button>Edit</button><a href="#" onclick="closeInput()" aria-label="Close">&#10006;</a>
+        </form>
+    </div>
+
     <p id="counter"></p>
 
     <table>
@@ -48,6 +65,21 @@
             }
             this.Count(this.id.length);
             return this.el.innerHTML = data;
+        };
+
+        this.add = function(){
+            el = document.getElementById("add_word");
+            var kata = el.value;
+
+            if (kata) {
+                this.id.push(kata.trim());
+                el.value = "";
+                this.fetchAll();
+            }
+        };
+
+        function closeInput() {
+            document.getElementById("spoiler").style.display = 'none';
         }
     };
 </script>
