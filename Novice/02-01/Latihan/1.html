@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+	<script>
+		var Person = function(name){
+			this.name = name;
+			this.canTalk = true;
+		};
+
+		Person.prototype.greet = function(){
+			if (this.canTalk){
+				console.log("hi i'm "+ this.name);
+			}
+		}
+
+		var Employee = function(name, title){
+			Person.call(this, name);
+			this.title = title;
+		}
+
+		Employee.prototype = Object.create(Person.prototype);
+		Employee.prototype.constructor = Employee;
+
+		Employee.prototype.greet = function(){
+			if(this.canTalk){
+				console.log("hi i'm " + this.name + ", the " + this.title)
+			}
+		};
+
+		var Customer = function(name){
+			Person.call(this, name);
+		};
+
+		Customer.prototype = Object.create(Person.prototype);
+		Customer.prototype.constructor = Customer;
+
+		var Mime = function(name){
+			Person.call(this, name);
+			this.canTalk = false;
+		};
+
+		Mime.prototype = Object.create(Person.prototype);
+		Mime.prototype.constructor = Mime;
+
+		var iqbal = new Employee("iqbal", "leader");
+		var budi = new Customer("budi");
+		var devi = new Mime("devi");
+	</script>
+</body>
+</html>
