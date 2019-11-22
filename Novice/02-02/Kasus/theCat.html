@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        class Cat {
+            constructor(tiredness, hunger, lonliness, happiness){
+                this.tiredness = 0;
+                this.hunger = 0;
+                this.lonliness = 0;
+                this.happiness = 0;
+            }
+
+            feed(){
+                this.hunger++;
+                this.happiness++;
+                if (this.hunger > 5) {
+                    this.hunger = this.hunger;
+                    console.log("i'm not hungry");
+                } else {
+                    console.log("i'm still hungry");
+                }
+                return this;
+            }
+            sleep(){
+                if (this.tiredness < 10) {
+                    console.log("ok i'll rest for a while");
+                    this.tiredness++;
+                    this.hunger--;
+                } else {
+                    console.log("i'm not tired");
+                }
+                return this;
+            }
+            pet(){
+
+            }
+        }
+
+        var cat1 = new Cat();
+    </script>
+</body>
+</html>
